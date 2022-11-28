@@ -1,0 +1,6584 @@
+{
+  "leaks": [
+    {
+      "commit": "4d4513d579bd27d836cd6a13c6378df8a76963a0",
+      "author": "Vadim Yavorsky",
+      "committed date": 1662481854,
+      "key word": "git",
+      "end position in commit": 108
+    },
+    {
+      "commit": "b29f0bf0c77e8e283760aca30988f07cfbf229ee",
+      "author": "GitHub",
+      "committed date": 1660554715,
+      "key word": "test",
+      "end position in commit": 85
+    },
+    {
+      "commit": "812811de0633e31c67ac1c38111b3b900a8eaaf4",
+      "author": "GitHub",
+      "committed date": 1660244140,
+      "key word": "test",
+      "end position in commit": 15
+    },
+    {
+      "commit": "0e31f7e646e1aeb26a54a6f5798b8baeec827c50",
+      "author": "GitHub",
+      "committed date": 1659351694,
+      "key word": "git",
+      "end position in commit": 544
+    },
+    {
+      "commit": "3f14a4357248952de7b492dd1a226b34bcaca081",
+      "author": "GitHub",
+      "committed date": 1659099534,
+      "key word": "git",
+      "end position in commit": 522
+    },
+    {
+      "commit": "14b3b1ad6fa43f80045b92702f1700d9fd26c8e2",
+      "author": "GitHub",
+      "committed date": 1658918765,
+      "key word": "git",
+      "end position in commit": 594
+    },
+    {
+      "commit": "55d89cdacdd8ec006185f4080e1428845e13ee4d",
+      "author": "GitHub",
+      "committed date": 1658504338,
+      "key word": "git",
+      "end position in commit": 500
+    },
+    {
+      "commit": "7b9009f51f9a656d92b14177cfb9b51bae52f28d",
+      "author": "GitHub",
+      "committed date": 1658330655,
+      "key word": "git",
+      "end position in commit": 531
+    },
+    {
+      "commit": "f0637b95ce06bf29442170af51e39096161f5509",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1657892894,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "2cf9a93771ecd160cae6b272aae3f977eef9e9ba",
+      "author": "Vadim Yavorsky",
+      "committed date": 1657878636,
+      "key word": "git",
+      "end position in commit": 108
+    },
+    {
+      "commit": "e0f2c4b29cda42f76184dab7b224ec3bb7e94537",
+      "author": "Vadim Yavorsky",
+      "committed date": 1657563901,
+      "key word": "git",
+      "end position in commit": 108
+    },
+    {
+      "commit": "f520475298b94c10e1b4d3d226c41b18e9330072",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1656946953,
+      "key word": "test",
+      "end position in commit": 51
+    },
+    {
+      "commit": "5c1602eb385ebdcff72260d2943061954d988d33",
+      "author": "Vadim Yavorsky",
+      "committed date": 1656929971,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "3107eee1451ef18095e3c969c192ff821dffc2bf",
+      "author": "Vadim Yavorsky",
+      "committed date": 1656692076,
+      "key word": "git",
+      "end position in commit": 108
+    },
+    {
+      "commit": "595acc4821ebd421e6cd74bbfaaf3f285b6da6a0",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1656591139,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "f8e30cdc0dd5a92b1c73f1feb0ba9d96a1cab5f1",
+      "author": "Vadim Yavorsky",
+      "committed date": 1656586935,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "7ccdf4b09e6cf2db8340bd2108ae97ac291df921",
+      "author": "Artem Payvin",
+      "committed date": 1656004011,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "79f51bfbaaa508eb71b24a1800562eb7581466a0",
+      "author": "Vadim Yavorsky",
+      "committed date": 1655988283,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "7a4f8f43141bd8798ec38bbed0b10ce01df099aa",
+      "author": "Vadim Yavorsky",
+      "committed date": 1655988267,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "a003e35e1367706a9721e9094551738ab4d4a636",
+      "author": "Vadim Yavorsky",
+      "committed date": 1655988252,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "8924d760d58a938e7898faf43372b11d9817014f",
+      "author": "Artem Payvin",
+      "committed date": 1655911881,
+      "key word": "test",
+      "end position in commit": 9
+    },
+    {
+      "commit": "3f3e94ac4660d356d8de16b120f6d50d40af4a54",
+      "author": "Artem Payvin",
+      "committed date": 1655901964,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "bc962ffd47fe96df89f4c629b7c935b2dbb5ad6a",
+      "author": "Artem Payvin",
+      "committed date": 1655825063,
+      "key word": "test",
+      "end position in commit": 14
+    },
+    {
+      "commit": "789c6ccf85e5d6e90990080c0e981e259745b54d",
+      "author": "Artem Payvin",
+      "committed date": 1655212476,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "e93c8a6325cb1aad0e93b90f8064f80b4d95608b",
+      "author": "Artem Payvin",
+      "committed date": 1655204103,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "f577379f51edeff15ea4d5d23cec4690d5028f81",
+      "author": "Artem Payvin",
+      "committed date": 1655203295,
+      "key word": "test",
+      "end position in commit": 19
+    },
+    {
+      "commit": "0b644513661fc710024ab978ba72e874bdc42d46",
+      "author": "Artem Payvin",
+      "committed date": 1655201895,
+      "key word": "test",
+      "end position in commit": 22
+    },
+    {
+      "commit": "182245b36e396bd82b4113cf52746620695b01df",
+      "author": "Artem Payvin",
+      "committed date": 1655155994,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "eb7f151f3b258ff73359485d6c14e9a7e05851ea",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1654787020,
+      "key word": "git",
+      "end position in commit": 83
+    },
+    {
+      "commit": "ac991870483948b79a41231cb5c1886280155e69",
+      "author": "GitHub",
+      "committed date": 1653987656,
+      "key word": "git",
+      "end position in commit": 521
+    },
+    {
+      "commit": "07a29223dfe8ad0b72a636feeefa292fa0b60f9b",
+      "author": "GitHub",
+      "committed date": 1653896188,
+      "key word": "git",
+      "end position in commit": 491
+    },
+    {
+      "commit": "9e4f61008e6356afb4a2d04e77ff49a862eb24e8",
+      "author": "GitHub",
+      "committed date": 1653658987,
+      "key word": "git",
+      "end position in commit": 570
+    },
+    {
+      "commit": "e3e8e07de8f1c92f6ada8762c4e02b3f287c462f",
+      "author": "GitHub",
+      "committed date": 1653556588,
+      "key word": "git",
+      "end position in commit": 466
+    },
+    {
+      "commit": "00468e6f52fc7b3243aab5e4646cadaed077a303",
+      "author": "GitHub",
+      "committed date": 1653302254,
+      "key word": "git",
+      "end position in commit": 387
+    },
+    {
+      "commit": "9a59881b731601e7ee631b58e2a23a47299a26d6",
+      "author": "GitHub",
+      "committed date": 1651725606,
+      "key word": "git",
+      "end position in commit": 510
+    },
+    {
+      "commit": "12c2319cf850a384ed171c0556a8b72ed66deb7b",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1651576366,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "c157eb69a273e08434c45f0b5e8dfda2c29cc54d",
+      "author": "GitHub",
+      "committed date": 1648234856,
+      "key word": "git",
+      "end position in commit": 395
+    },
+    {
+      "commit": "b6c64a521c391d42a7a9644f7d12cd8b593a4ecd",
+      "author": "Artem Payvin",
+      "committed date": 1644492586,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "e25c08ec883f93d023e307cd7421b7bd786f1f14",
+      "author": "Artem Payvin",
+      "committed date": 1644430931,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "b9debc22bbbd86caac82bc036e4b7f246d88f599",
+      "author": "Artem Payvin",
+      "committed date": 1644430351,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "1d0242493e5063fda22b27bfc1240391c7d1d1f1",
+      "author": "Artem Payvin",
+      "committed date": 1644427269,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "0e36c5fb28e868e706706463c729bff337042475",
+      "author": "GitHub",
+      "committed date": 1643819114,
+      "key word": "git",
+      "end position in commit": 531
+    },
+    {
+      "commit": "bc4a6fa0ca9b43fc411707cd2842a1b0031c5d28",
+      "author": "GitHub",
+      "committed date": 1643629845,
+      "key word": "git",
+      "end position in commit": 495
+    },
+    {
+      "commit": "13ce3357ca85f1df1ca17030be03ad6a11f074e9",
+      "author": "GitHub",
+      "committed date": 1643436216,
+      "key word": "git",
+      "end position in commit": 524
+    },
+    {
+      "commit": "15eb9fd9ad1de918821c5ce948af2d047a45c20f",
+      "author": "Artem Payvin",
+      "committed date": 1643294284,
+      "key word": "test",
+      "end position in commit": 9
+    },
+    {
+      "commit": "0fa3ce987f52eaa2cb65858bfe8d09f6554e04b6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1643286299,
+      "key word": "test",
+      "end position in commit": 15
+    },
+    {
+      "commit": "761abf987fae0f52dd28c6b8ce6c0501a6b3fdc3",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1643283846,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "1ed4a526a24fd4bb0673459a2225a4a1fc8f1551",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1643121940,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "954e68271e2c71a238380cfe935b797949336de4",
+      "author": "Vadim Yavorsky",
+      "committed date": 1642687480,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "b022c7c41ad54e374027e27f79c82c0dfd52b9d6",
+      "author": "Vadim Yavorsky",
+      "committed date": 1642686193,
+      "key word": "git",
+      "end position in commit": 106
+    },
+    {
+      "commit": "ceb78fb9c0f0caad0e8c50fa37137746614bc522",
+      "author": "Vadim Yavorsky",
+      "committed date": 1642685724,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "cb2b6b4d4571db4c2baa20cedb9cfd3cfeb71c97",
+      "author": "Vadim Yavorsky",
+      "committed date": 1642617192,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "84dbe2108495d2cd315afc6adc2923a9c42df06a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1642603010,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "8985d42f8e86abd333bda351015a50ce7b0e9914",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1642597678,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "f6063b9334b5f33425f92b565b3ef3e24de0333d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1642590682,
+      "key word": "test",
+      "end position in commit": 46
+    },
+    {
+      "commit": "7e49b1a3285b01f7ee292c14d14e6a01512f5d91",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1642587261,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "1ca941b2b16a8f67a1d011e0899b1de0fa756350",
+      "author": "Artem Payvin",
+      "committed date": 1642517236,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "4f3b1090f2c4c377e7a102c72e19bb91b85bb33c",
+      "author": "GitHub",
+      "committed date": 1641823135,
+      "key word": "git",
+      "end position in commit": 522
+    },
+    {
+      "commit": "17ea79395b6c4f474053d723368b6ef2e6c98dbd",
+      "author": "GitHub",
+      "committed date": 1641482674,
+      "key word": "git",
+      "end position in commit": 521
+    },
+    {
+      "commit": "a2ce64c5b624a21d1a8090f767d687c605dbc4ea",
+      "author": "GitHub",
+      "committed date": 1641478174,
+      "key word": "git",
+      "end position in commit": 594
+    },
+    {
+      "commit": "1edc43ab7bf47019501b087825446b344b40d126",
+      "author": "GitHub",
+      "committed date": 1641470202,
+      "key word": "git",
+      "end position in commit": 532
+    },
+    {
+      "commit": "3885bd3ad9f6fd73c668a598d44024c79b02d917",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1640962210,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "700aaf226e70b3544f9b18bdc60ed8ecc22d8132",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1640788706,
+      "key word": "test",
+      "end position in commit": 19
+    },
+    {
+      "commit": "85a53bef6b0b4e1a4a35217dc9580896a1c2fb05",
+      "author": "GitHub",
+      "committed date": 1640167436,
+      "key word": "test",
+      "end position in commit": 78
+    },
+    {
+      "commit": "ca736deb9cd15f5e6907491c670f82e56c553c98",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1640022252,
+      "key word": "test",
+      "end position in commit": 16
+    },
+    {
+      "commit": "a55dc8973df7861f9af0dc243c085f6029c33345",
+      "author": "GitHub",
+      "committed date": 1639766474,
+      "key word": "test",
+      "end position in commit": 108
+    },
+    {
+      "commit": "6b1a007d3b428593fe7ba4d7ba6fd1c28f49df0a",
+      "author": "Artem Payvin",
+      "committed date": 1639752603,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "520724bcfc3375bf786d8f8be1861f1021559317",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1639740493,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "03a925f5bc911c7b8264f60d483f57de9e38916a",
+      "author": "GitHub",
+      "committed date": 1639586427,
+      "key word": "git",
+      "end position in commit": 678
+    },
+    {
+      "commit": "89f9c1abe6f3f93b06d61060efe629593bcb2c35",
+      "author": "GitHub",
+      "committed date": 1639411109,
+      "key word": "git",
+      "end position in commit": 491
+    },
+    {
+      "commit": "22d0baace5d7edcf3c9cc5c01f3ccc8e29977126",
+      "author": "GitHub",
+      "committed date": 1639203133,
+      "key word": "git",
+      "end position in commit": 466
+    },
+    {
+      "commit": "0ef8d4875e8ff6e8c21c77a2fe10999bc2177f1d",
+      "author": "Artem Payvin",
+      "committed date": 1638981154,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "edf8deba513700c9e88f0c258e08b5e2d4e9d9eb",
+      "author": "Vadim Yavorsky",
+      "committed date": 1638878420,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "7cfe25672d1fbcb0e27d02fcf5c92fd66f7c007a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1638526727,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "00f192c8734c077321dc5965da7b5689378abd0b",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1638468914,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "a915247c68424e2a8220227e149b392c92c41901",
+      "author": "GitHub",
+      "committed date": 1638274681,
+      "key word": "test",
+      "end position in commit": 119
+    },
+    {
+      "commit": "ddbfaf3c0956a13661eacf8e6af2bcd3a0b12b13",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1638201181,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "891e4511fa766c4f74d6a78b31c2c4f92ffc04cd",
+      "author": "Artem Payvin",
+      "committed date": 1637942479,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "34db4609b08ce9005d42db742d2d65fcf0f58a72",
+      "author": "Artem Payvin",
+      "committed date": 1637937168,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "48060fee1f3eb10de81914d38c500ef0189d02ec",
+      "author": "Artem Payvin",
+      "committed date": 1637935335,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "cb5a62a2bb55e3b998b00c2d8267533443c5e800",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637928240,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "0b45f6abdb41acec26a7a22a96fe5aa55f34bdae",
+      "author": "GitHub",
+      "committed date": 1637770085,
+      "key word": "git",
+      "end position in commit": 721
+    },
+    {
+      "commit": "02d0a3cc9953c96c8dca343797cbcd823ebb9cb6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637759714,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "1b4005431ef593d0119a654571a2433f703029be",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637688571,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "98cecbbd3b703c707bc4f6cf30a25574117ab207",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637684589,
+      "key word": "test",
+      "end position in commit": 45
+    },
+    {
+      "commit": "3b0699f494a62a9d1b394a4b66d9640ae0f95fd3",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637677059,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "ab6bfdfaa0bc4e5a4117572a457590f1f0efd234",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637676359,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "8a9dca4583afbf7b7a42e975a336db4ef012a913",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637676296,
+      "key word": "test",
+      "end position in commit": 46
+    },
+    {
+      "commit": "dbc0ca5798f71c82538c0ccb0bcc8442caa6d1fd",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637675715,
+      "key word": "test",
+      "end position in commit": 59
+    },
+    {
+      "commit": "69701e38deef0026aa3cff8568f3e7cb94ac5fd7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637675559,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "9f0261d991cc62d6631e4df6549a1120534a17d7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637675168,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "05fd29f31f1a3b9a5d3dd93c592e4f8243bb4640",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637675039,
+      "key word": "test",
+      "end position in commit": 45
+    },
+    {
+      "commit": "7520a3e50c5d71543b649b45843ae1d5dc6dc281",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637674817,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "14aece629ae485cae980f348f7c7ce3477e1eeb7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637674746,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "e136d2f0b4f8c251268a6e0f8a834e18af1ea812",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637671449,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "86c134e614a443b2295f17c3761a92449a70c69d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637601787,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "a41ba648b3ba934a31ad7e98af0b9ddec40d2aee",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637345728,
+      "key word": "test",
+      "end position in commit": 47
+    },
+    {
+      "commit": "e4e8c968dc40b54d8ef3dc4c4b5f162ce87a633c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637341007,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "b65805284621f1f67446ca21c11e6880c5c92cf3",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637338751,
+      "key word": "test",
+      "end position in commit": 56
+    },
+    {
+      "commit": "0c1f9ae9c8199a9cd15e147f588796020e6812e3",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637323304,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "288178d2e63c8899270963ece9b8cfa74e0bc436",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637322712,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "a16c662a106df900abc3554f9fe3508c1f9fc862",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637320850,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "82b7c52f5272d051da444a659f0c4c1bc01ce866",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1637080683,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "a4256430f77ff25a3629abb4ed5f5552e51b84a9",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1636995382,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "7057b6c59573cf965b97e567d6c884ff6e394945",
+      "author": "GitHub",
+      "committed date": 1636722728,
+      "key word": "git",
+      "end position in commit": 452
+    },
+    {
+      "commit": "e9800b27fab8bd6b8ff79fac1facddd4e6e37504",
+      "author": "GitHub",
+      "committed date": 1636178684,
+      "key word": "git",
+      "end position in commit": 626
+    },
+    {
+      "commit": "0afd71a2eefec58b7778e3d507c1001fe7be6d37",
+      "author": "GitHub",
+      "committed date": 1635780147,
+      "key word": "git",
+      "end position in commit": 553
+    },
+    {
+      "commit": "e8648d367d7a8a911e626b0277d98f4c91a80885",
+      "author": "GitHub",
+      "committed date": 1635412932,
+      "key word": "git",
+      "end position in commit": 500
+    },
+    {
+      "commit": "f58789d166ee1d68798b4a5ad1908a5d518212e4",
+      "author": "GitHub",
+      "committed date": 1635247403,
+      "key word": "git",
+      "end position in commit": 452
+    },
+    {
+      "commit": "642758a09dcd800fa8e31490623cf8548b699957",
+      "author": "Artem Payvin",
+      "committed date": 1635180375,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "2d8b5f34777c5539e11a950e1ef8d604902a749e",
+      "author": "GitHub",
+      "committed date": 1635170071,
+      "key word": "git",
+      "end position in commit": 626
+    },
+    {
+      "commit": "f2a9ea467b064ead755c129cb612b299ac771587",
+      "author": "GitHub",
+      "committed date": 1634912500,
+      "key word": "git",
+      "end position in commit": 637
+    },
+    {
+      "commit": "9751d6bbf1910d648db6dd745fe24650eb9c6000",
+      "author": "GitHub",
+      "committed date": 1634906912,
+      "key word": "git",
+      "end position in commit": 678
+    },
+    {
+      "commit": "03a89f081791860e8cec7921b9a0cfe1b979be7d",
+      "author": "GitHub",
+      "committed date": 1634726993,
+      "key word": "git",
+      "end position in commit": 531
+    },
+    {
+      "commit": "2cc6127bddf8504b31d054c9266ea5d7863af219",
+      "author": "GitHub",
+      "committed date": 1634724278,
+      "key word": "git",
+      "end position in commit": 491
+    },
+    {
+      "commit": "a1b7389703e3464182c716db570d3d319ff6140d",
+      "author": "GitHub",
+      "committed date": 1634721893,
+      "key word": "git",
+      "end position in commit": 458
+    },
+    {
+      "commit": "199bb5e6b6ca75091d9a87ce56d2b9bb2c8b0388",
+      "author": "GitHub",
+      "committed date": 1634655659,
+      "key word": "git",
+      "end position in commit": 500
+    },
+    {
+      "commit": "c2ca97d112c1c19173569f254aa8c6b5b9bf6e4d",
+      "author": "Vadim Yavorsky",
+      "committed date": 1633632190,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "db506b47120c57918caf03c42069e387e7b0f81d",
+      "author": "Vadim Yavorsky",
+      "committed date": 1633547647,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "5e742dda8c6d4ff2dec5532ba5a92a57f932bd70",
+      "author": "Vadim Yavorsky",
+      "committed date": 1633546555,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "5e7076e779dc69622b3b2488962ac2bbf1fe7c19",
+      "author": "Vadim Yavorsky",
+      "committed date": 1633539822,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "3f170dc769c13f78558b8d10af5bcf57f3682d88",
+      "author": "Vadim Yavorsky",
+      "committed date": 1633004981,
+      "key word": "git",
+      "end position in commit": 95
+    },
+    {
+      "commit": "fd88bfc376571cc2805af0fb25a9e008b5f8d0a9",
+      "author": "Vadim Yavorsky",
+      "committed date": 1632998610,
+      "key word": "test",
+      "end position in commit": 22
+    },
+    {
+      "commit": "43bae06fdac4abb80991bec635b99daf2bc85224",
+      "author": "GitHub",
+      "committed date": 1632816136,
+      "key word": "git",
+      "end position in commit": 553
+    },
+    {
+      "commit": "f253a7215a86b4460f48684529b32e56a4e2cd07",
+      "author": "Vadim Yavorsky",
+      "committed date": 1632750226,
+      "key word": "git",
+      "end position in commit": 90
+    },
+    {
+      "commit": "8290304710c6ee5eaa811435b0e5b2e12fea971a",
+      "author": "GitHub",
+      "committed date": 1632401391,
+      "key word": "git",
+      "end position in commit": 435
+    },
+    {
+      "commit": "4ac3fb8d7281db7d29ee0095ace2f6d94574d8be",
+      "author": "Artem Payvin",
+      "committed date": 1632321823,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "f9f061d65d5464db760e0f90e69e14d837bd60f0",
+      "author": "Vadim Yavorsky",
+      "committed date": 1632240847,
+      "key word": "git",
+      "end position in commit": 90
+    },
+    {
+      "commit": "a223571bfc3ac8e8049193e29b581a570dd6c57c",
+      "author": "Artem Payvin",
+      "committed date": 1631541040,
+      "key word": "test",
+      "end position in commit": 9
+    },
+    {
+      "commit": "b90f7e2e7dee15f970f85ade6ddb75ad96b98060",
+      "author": "GitHub",
+      "committed date": 1631192608,
+      "key word": "git",
+      "end position in commit": 623
+    },
+    {
+      "commit": "235a189831341ad1d6e3276de6fb8cc31f413412",
+      "author": "Artem Payvin",
+      "committed date": 1631185772,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "ee59d19da64eca5cee77f795e6b2f169d72c32e6",
+      "author": "GitHub",
+      "committed date": 1631174627,
+      "key word": "git",
+      "end position in commit": 500
+    },
+    {
+      "commit": "2b14c6cc59fba9d4e4b3e9059eb051a60deb4dbe",
+      "author": "Artem Payvin",
+      "committed date": 1631038218,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "c2c888f751bb2e8f4b61069ed57e40825e297a70",
+      "author": "GitHub",
+      "committed date": 1630914726,
+      "key word": "test",
+      "end position in commit": 128
+    },
+    {
+      "commit": "7d6af9608fa460687a4bd1ce5f387c0fdc95bc81",
+      "author": "GitHub",
+      "committed date": 1629525883,
+      "key word": "git",
+      "end position in commit": 464
+    },
+    {
+      "commit": "3929499d4a96d968410fe5c6e7a85aa00ee1c52c",
+      "author": "GitHub",
+      "committed date": 1629386094,
+      "key word": "test",
+      "end position in commit": 70
+    },
+    {
+      "commit": "329c3941558c8450a7c18e6a8a256e438a70be73",
+      "author": "Artem Payvin",
+      "committed date": 1628710075,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "9ef626a3eac399cf3a714fb183ee075fd829931f",
+      "author": "Artem Payvin",
+      "committed date": 1628614765,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "354a9d9c0483a4e6e4e7902735b6ce7de5d9f38a",
+      "author": "GitHub",
+      "committed date": 1628606136,
+      "key word": "git",
+      "end position in commit": 553
+    },
+    {
+      "commit": "ee67e01cc2f7b334536aca79de2f384d1c716300",
+      "author": "GitHub",
+      "committed date": 1628602519,
+      "key word": "git",
+      "end position in commit": 500
+    },
+    {
+      "commit": "ccd1ca3e963cf38b2142d17bb6a2f48438c266c6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1628596328,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "8b9f35269ab12a3ea32ea0b710e2411cd422dd6a",
+      "author": "Artem Payvin",
+      "committed date": 1628157489,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "40c1da2aa1cb8f0d734bcb7ceb25f4475d4bb63b",
+      "author": "Artem Payvin",
+      "committed date": 1628081243,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "258a4021273133248337529ccbb1434bde10d470",
+      "author": "Artem Payvin",
+      "committed date": 1628075196,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "e0c0b706d499884d8ae0bf651fbea6e52cefc33f",
+      "author": "Artem Payvin",
+      "committed date": 1628074167,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "e662b7754773fe9a507e995e496ff6d4c71f831c",
+      "author": "Artem Payvin",
+      "committed date": 1628072514,
+      "key word": "test",
+      "end position in commit": 62
+    },
+    {
+      "commit": "ebf5b4474859d47f376a58a4af4c54abb17df2e4",
+      "author": "Artem Payvin",
+      "committed date": 1628071243,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "b5ccde8fa7e5c7b3e8367cea7fe8e02e7c2ad596",
+      "author": "Artem Payvin",
+      "committed date": 1628070643,
+      "key word": "git",
+      "end position in commit": 153
+    },
+    {
+      "commit": "74b3aca74fa7bbe6705c5d0915874d4d1c8044f6",
+      "author": "Artem Payvin",
+      "committed date": 1628070583,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "e18bfe388489d74b0a9f9c7442492635a970e3b3",
+      "author": "Artem Payvin",
+      "committed date": 1628016327,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "2e1ad32103e3323592da8bc3f28b47ab08cb5f2f",
+      "author": "Artem Payvin",
+      "committed date": 1628008177,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "62910868ca275da5d39942d2dd6d011f9c24aee4",
+      "author": "Artem Payvin",
+      "committed date": 1628006349,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "784efbb1a4c87d497e90ae9fd3cc6bd8075b20eb",
+      "author": "Artem Payvin",
+      "committed date": 1627999917,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "fd0730cdd2289a21334666c6f737b9252c886cec",
+      "author": "Artem Payvin",
+      "committed date": 1627992363,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "eb381a126ccd90d0bb04c4bc30eedf7638f6740e",
+      "author": "Artem Payvin",
+      "committed date": 1627989789,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "f4790e33c3478e4acd0c9e7fd1e3a05a799c5dcb",
+      "author": "Artem Payvin",
+      "committed date": 1627985470,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "01e0d3ed595d6abc487b3d8aed302d223e4168c5",
+      "author": "Artem Payvin",
+      "committed date": 1627984988,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "bc62d0e6c9dda2be224a4d52305729f53768abfb",
+      "author": "Artem Payvin",
+      "committed date": 1627924464,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "cd28a7b1cad7a44283909740d16c2d080ed7a97a",
+      "author": "Artem Payvin",
+      "committed date": 1627923173,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "291f00fcdcd2dda02f1123aee54209fe48e4ba35",
+      "author": "Artem Payvin",
+      "committed date": 1627910788,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "4caa76edb0c8ff90c326a52227ad2ec7185899fa",
+      "author": "Artem Payvin",
+      "committed date": 1627908513,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "b87fb866692fd7ba132e7882dc087a3e93a584a0",
+      "author": "Artem Payvin",
+      "committed date": 1627903581,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "83fdce10d8551298c30d5e33fe13956f7e20e86a",
+      "author": "Artem Payvin",
+      "committed date": 1627902842,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "f7d94c20aa1daa0daeda3bd294dde219394a5d33",
+      "author": "Artem Payvin",
+      "committed date": 1627902239,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "d1251c785fe1f6a57f7e81da71a7e61706b69e61",
+      "author": "Artem Payvin",
+      "committed date": 1627899396,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "7fe7381392e31be7f07a378472320c39721f2f06",
+      "author": "Artem Payvin",
+      "committed date": 1627664251,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "de32c801a7a0e6b968a3ed82eb22a4176ee4ad07",
+      "author": "Artem Payvin",
+      "committed date": 1627661006,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "cd412742e604122397eda9e4812c679694d12e45",
+      "author": "Artem Payvin",
+      "committed date": 1627657934,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "a76e452f2331078dbc902332b2b0af2e5055ac53",
+      "author": "Sergiy Lavrynenko",
+      "committed date": 1627479705,
+      "key word": "test",
+      "end position in commit": 101
+    },
+    {
+      "commit": "fff4165b1e416487a5bdd7d2bc8d17c61541b1c3",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1627393926,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "02619e5ef9c6d4b238ba0f6094d940be47c4019f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1627046814,
+      "key word": "git",
+      "end position in commit": 52
+    },
+    {
+      "commit": "bae36e69f525779b43c2068551db5bc4a2bb6e2d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1627046613,
+      "key word": "git",
+      "end position in commit": 68
+    },
+    {
+      "commit": "6afb06ae9f0479d35b631e1fe5e8c86332c62b6c",
+      "author": "Artem Payvin",
+      "committed date": 1626861785,
+      "key word": "git",
+      "end position in commit": 22
+    },
+    {
+      "commit": "53dd67cacd256247290f437e525aea6092beeebb",
+      "author": "GitHub",
+      "committed date": 1626089268,
+      "key word": "git",
+      "end position in commit": 464
+    },
+    {
+      "commit": "a8f86e648c1549371a5a27e54f9adad81e03d45d",
+      "author": "GitHub",
+      "committed date": 1625897003,
+      "key word": "git",
+      "end position in commit": 534
+    },
+    {
+      "commit": "bb44598870e1db86a1abaa1a0952039b8c7c4670",
+      "author": "GitHub",
+      "committed date": 1625688244,
+      "key word": "git",
+      "end position in commit": 553
+    },
+    {
+      "commit": "1f9205fbdff927fe579f118c8bc7731e3cd31567",
+      "author": "GitHub",
+      "committed date": 1625660649,
+      "key word": "git",
+      "end position in commit": 500
+    },
+    {
+      "commit": "356224649bb5424a03a86a3288df732ecd2d96a5",
+      "author": "GitHub",
+      "committed date": 1625485029,
+      "key word": "git",
+      "end position in commit": 620
+    },
+    {
+      "commit": "04113464be9a7807783ac718a385707529f9a5ce",
+      "author": "GitHub",
+      "committed date": 1625480722,
+      "key word": "test",
+      "end position in commit": 75
+    },
+    {
+      "commit": "77f175d6f57d99e0760a6e6f7941ef9f85c33cea",
+      "author": "Artem Payvin",
+      "committed date": 1625055736,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "b642e2aab2434ab01173f31d667ed85a83040b8d",
+      "author": "Artem Payvin",
+      "committed date": 1624975704,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "d19d6621fd9bd2dd3170071c5c578c34f051f449",
+      "author": "GitHub",
+      "committed date": 1624522123,
+      "key word": "git",
+      "end position in commit": 464
+    },
+    {
+      "commit": "a8883579ee4a315236353144cc77b77525c4ba49",
+      "author": "GitHub",
+      "committed date": 1624436573,
+      "key word": "git",
+      "end position in commit": 553
+    },
+    {
+      "commit": "95629c31f2c789c51b7421e378cd1f049323729e",
+      "author": "GitHub",
+      "committed date": 1623246827,
+      "key word": "git",
+      "end position in commit": 415
+    },
+    {
+      "commit": "bba111800fc1edea916e086052877f28a8db538c",
+      "author": "GitHub",
+      "committed date": 1623231094,
+      "key word": "git",
+      "end position in commit": 477
+    },
+    {
+      "commit": "30ffe2f2522b544b7156a47039058496ec4b9a06",
+      "author": "GitHub",
+      "committed date": 1623169541,
+      "key word": "git",
+      "end position in commit": 577
+    },
+    {
+      "commit": "e89243120e430f4ea0e79b5f758fdc350cd8ee71",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1623059763,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "6c63e22888bd7e3e7a2e70458ad0bb2f5d74fc3d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1622816845,
+      "key word": "test",
+      "end position in commit": 51
+    },
+    {
+      "commit": "8a072e629fc00c6b7812572d46b8f3b46b458ec7",
+      "author": "GitHub",
+      "committed date": 1622732642,
+      "key word": "git",
+      "end position in commit": 416
+    },
+    {
+      "commit": "0ca30442c94313750420b2cdfa88e49729c919d3",
+      "author": "GitHub",
+      "committed date": 1622722219,
+      "key word": "git",
+      "end position in commit": 370
+    },
+    {
+      "commit": "7345896ac39464a57cb6e2d7c76c6f09669d1b87",
+      "author": "GitHub",
+      "committed date": 1622714194,
+      "key word": "git",
+      "end position in commit": 326
+    },
+    {
+      "commit": "39bf9738728ca7e3eaee61b058ff988e947f8559",
+      "author": "GitHub",
+      "committed date": 1622707581,
+      "key word": "git",
+      "end position in commit": 457
+    },
+    {
+      "commit": "ba54e0c14b70653aec2a478b8a91a411dbf0d343",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622647960,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "972de4f083e6e4f57a41d617cdb043158e0f0810",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622644257,
+      "key word": "git",
+      "end position in commit": 161
+    },
+    {
+      "commit": "10af99e67c69ddbd535f339c0a44825d6ced2ae6",
+      "author": "Artem Payvin",
+      "committed date": 1622643753,
+      "key word": "git",
+      "end position in commit": 119
+    },
+    {
+      "commit": "d040fae485b4b1cd1afad7b48d5a0fc3f624709b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622638050,
+      "key word": "git",
+      "end position in commit": 113
+    },
+    {
+      "commit": "9c4b5a44698e3fc36c5e8e1167e405c3a4adeb36",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622635385,
+      "key word": "git",
+      "end position in commit": 141
+    },
+    {
+      "commit": "ba084b40985f55227d2f9b484e49e67f8b55860e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622634337,
+      "key word": "git",
+      "end position in commit": 113
+    },
+    {
+      "commit": "df57d8fc2970ee60bdacd45e81d7b550e26e92d8",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622624937,
+      "key word": "git",
+      "end position in commit": 31
+    },
+    {
+      "commit": "4b31622906ccf788ff6c86aedb771af00967265b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622624882,
+      "key word": "git",
+      "end position in commit": 106
+    },
+    {
+      "commit": "ef87e69a1b0634bf2ff9950a585a2df54930072a",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622548423,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "57b9ed6c38c3e9e92b57d1975ad8af77371723e9",
+      "author": "Vadim Yavorsky",
+      "committed date": 1622541893,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "8466da3716b536277cb00452d2e12bfe44f9988a",
+      "author": "GitHub",
+      "committed date": 1621322583,
+      "key word": "git",
+      "end position in commit": 367
+    },
+    {
+      "commit": "c3bbfa0318769171c53dffffefc6754ea5709f26",
+      "author": "GitHub",
+      "committed date": 1621264011,
+      "key word": "git",
+      "end position in commit": 365
+    },
+    {
+      "commit": "b9996c518d5fdb67ed34cb2d3cd495b9265ff6c5",
+      "author": "GitHub",
+      "committed date": 1621263819,
+      "key word": "git",
+      "end position in commit": 129
+    },
+    {
+      "commit": "1eef7bb11e539c1b88f5ba38b24af32f6801553f",
+      "author": "GitHub",
+      "committed date": 1620999460,
+      "key word": "git",
+      "end position in commit": 401
+    },
+    {
+      "commit": "98a993ad9fbeeb83a1794a61384f1e7042a685ac",
+      "author": "GitHub",
+      "committed date": 1620988772,
+      "key word": "git",
+      "end position in commit": 408
+    },
+    {
+      "commit": "6e69450a5e17e00e0ea194530bb3b95c27979637",
+      "author": "GitHub",
+      "committed date": 1620450410,
+      "key word": "git",
+      "end position in commit": 367
+    },
+    {
+      "commit": "c54ceb787b960d92b8d2fc4d7aea24b167acc422",
+      "author": "GitHub",
+      "committed date": 1619848125,
+      "key word": "git",
+      "end position in commit": 416
+    },
+    {
+      "commit": "ca1cfc8608e242f929f24b73192e38a37fa61e9c",
+      "author": "GitHub",
+      "committed date": 1619433541,
+      "key word": "git",
+      "end position in commit": 416
+    },
+    {
+      "commit": "aaa9b12fbee89fb2b93dd357f601f29a93525894",
+      "author": "GitHub",
+      "committed date": 1619240707,
+      "key word": "git",
+      "end position in commit": 326
+    },
+    {
+      "commit": "89900ad0109d0f2adec19af98fef42af36257ab6",
+      "author": "GitHub",
+      "committed date": 1618635889,
+      "key word": "git",
+      "end position in commit": 326
+    },
+    {
+      "commit": "07db8fa7d83aab3d09b3ea04a8e8f5ef85cc193e",
+      "author": "GitHub",
+      "committed date": 1618388674,
+      "key word": "git",
+      "end position in commit": 365
+    },
+    {
+      "commit": "22f1741b9fe3c51941f82b80c84e10a0c3ba2c80",
+      "author": "GitHub",
+      "committed date": 1618302307,
+      "key word": "git",
+      "end position in commit": 418
+    },
+    {
+      "commit": "855eab6a2e2af9c5328421846cc6d3c7eb6e65e8",
+      "author": "GitHub",
+      "committed date": 1617956528,
+      "key word": "git",
+      "end position in commit": 415
+    },
+    {
+      "commit": "9bcc7c4387f4f31d2249f207f072d8c1dadae2f3",
+      "author": "Vadim Yavorsky",
+      "committed date": 1617654493,
+      "key word": "git",
+      "end position in commit": 106
+    },
+    {
+      "commit": "18190dbb2deeeddf32013de80fa0428a66513277",
+      "author": "GitHub",
+      "committed date": 1616821584,
+      "key word": "git",
+      "end position in commit": 326
+    },
+    {
+      "commit": "e8c095ef4d1fad3c7694b70be363f8a86ac28b16",
+      "author": "GitHub",
+      "committed date": 1616419634,
+      "key word": "git",
+      "end position in commit": 362
+    },
+    {
+      "commit": "5ea2eb872a76790848a19fda3837b3e5b8da0f36",
+      "author": "GitHub",
+      "committed date": 1616407617,
+      "key word": "git",
+      "end position in commit": 421
+    },
+    {
+      "commit": "d88dd29872673127bdbba90cc0d54edbc36a3f0f",
+      "author": "GitHub",
+      "committed date": 1616228732,
+      "key word": "git",
+      "end position in commit": 429
+    },
+    {
+      "commit": "1d8c62903121f819f356d7c6579405ac775e87e6",
+      "author": "GitHub",
+      "committed date": 1616150218,
+      "key word": "git",
+      "end position in commit": 465
+    },
+    {
+      "commit": "b9e36ae56e26dc75d29047b46ee856a2551e7a36",
+      "author": "GitHub",
+      "committed date": 1615007205,
+      "key word": "git",
+      "end position in commit": 329
+    },
+    {
+      "commit": "1386a6fb1ffcc831811347ab5b4472f8304b52ee",
+      "author": "GitHub",
+      "committed date": 1614789279,
+      "key word": "test",
+      "end position in commit": 77
+    },
+    {
+      "commit": "30da279f46f3730dccdf053584e5e3123955a2f6",
+      "author": "Vadim Yavorsky",
+      "committed date": 1614779483,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "f24fb2ceb36910b2e1828f95e84e818d5975ec5a",
+      "author": "Vadim Yavorsky",
+      "committed date": 1614688040,
+      "key word": "git",
+      "end position in commit": 107
+    },
+    {
+      "commit": "24aac7ff8e064ab475041f8bec8f88dee38fa16c",
+      "author": "Vadim Yavorsky",
+      "committed date": 1614685770,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "faa9d50687b78a263047812af13d826e7231f804",
+      "author": "Vadim Yavorsky",
+      "committed date": 1614607249,
+      "key word": "git",
+      "end position in commit": 107
+    },
+    {
+      "commit": "987ea382506dfda0785ecb7bcb5f1a4a81f00ddc",
+      "author": "GitHub",
+      "committed date": 1614402396,
+      "key word": "git",
+      "end position in commit": 332
+    },
+    {
+      "commit": "aa84db818dd22d08b86d7d4c2f73e0a250a811f8",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1614337908,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "da5ca66f77bc39b29bb5b856fd3da942289a7df6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1614068821,
+      "key word": "git",
+      "end position in commit": 31
+    },
+    {
+      "commit": "4325ab9794d4f7f05d30c17cda6051e0849138d7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1614004287,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "ecc8f759059dfe629271409ea6927b7a88b11b48",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613659115,
+      "key word": "git",
+      "end position in commit": 124
+    },
+    {
+      "commit": "72b8d2cd1dc0fe33880fd3122dc9cb8994885531",
+      "author": "Artem Payvin",
+      "committed date": 1613582887,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "597c2e70f12c0f0d83416f4189324414e2aedb62",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613581887,
+      "key word": "git",
+      "end position in commit": 104
+    },
+    {
+      "commit": "44d15b580d9ddc9f8730e2981014e1511781c07e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613580990,
+      "key word": "git",
+      "end position in commit": 31
+    },
+    {
+      "commit": "d1bc42531cda551f75313a2ce7c1af42ea6dbf00",
+      "author": "Artem Payvin",
+      "committed date": 1613566034,
+      "key word": "git",
+      "end position in commit": 111
+    },
+    {
+      "commit": "415395a6e97e75a6f0f5f6e3c02d31c63f80a3da",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613501754,
+      "key word": "git",
+      "end position in commit": 104
+    },
+    {
+      "commit": "2a6024a5948f927855f1566ebfc21cd796044208",
+      "author": "GitHub",
+      "committed date": 1613499040,
+      "key word": "test",
+      "end position in commit": 74
+    },
+    {
+      "commit": "4926b88ef3773ae7404a72b714dd974e74d92e20",
+      "author": "GitHub",
+      "committed date": 1613490434,
+      "key word": "git",
+      "end position in commit": 329
+    },
+    {
+      "commit": "942eb1e3ab358849a739165a6d64623e1f6ef620",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1613483478,
+      "key word": "git",
+      "end position in commit": 113
+    },
+    {
+      "commit": "295db4a3b850fd55619b9a1aa0788a1153f0488d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1613483428,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "7ae553b881d35f2789f121d5a5e79bac40eb68e9",
+      "author": "Artem Payvin",
+      "committed date": 1613481678,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "29e38f9870253fa8e1b203c4b853d6aa2dda39a5",
+      "author": "GitHub",
+      "committed date": 1613472132,
+      "key word": "git",
+      "end position in commit": 421
+    },
+    {
+      "commit": "da3c66e63ebc61cdbccf449d63c6ec96a9d0ffe0",
+      "author": "GitHub",
+      "committed date": 1613466816,
+      "key word": "git",
+      "end position in commit": 481
+    },
+    {
+      "commit": "0be0950203565f8f8e2e13d36ea3a71775b35521",
+      "author": "GitHub",
+      "committed date": 1613423341,
+      "key word": "test",
+      "end position in commit": 106
+    },
+    {
+      "commit": "e689d475c8e3548a7fdbbc936918d2900e8281f0",
+      "author": "Artem Payvin",
+      "committed date": 1613404889,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "7bbf8c9b1a73c58dc4e03091d9c09b420025e346",
+      "author": "GitHub",
+      "committed date": 1613403596,
+      "key word": "test",
+      "end position in commit": 126
+    },
+    {
+      "commit": "e64824b635bb1fc4ec2d244c9130dec99aa7c45b",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1613394979,
+      "key word": "test",
+      "end position in commit": 60
+    },
+    {
+      "commit": "19bd84aad91959cda2e86b111343077f23ad4fa6",
+      "author": "Artem Payvin",
+      "committed date": 1613312903,
+      "key word": "test",
+      "end position in commit": 54
+    },
+    {
+      "commit": "34b518bf8510c39c2f543bc21202669a6d084493",
+      "author": "Artem Payvin",
+      "committed date": 1613309089,
+      "key word": "test",
+      "end position in commit": 59
+    },
+    {
+      "commit": "249b7af2e5b9e1321d24ad61c1f60149837dee6e",
+      "author": "Artem Payvin",
+      "committed date": 1613308038,
+      "key word": "test",
+      "end position in commit": 54
+    },
+    {
+      "commit": "419741a924e1be7cd883465676e25256f3349723",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613261545,
+      "key word": "git",
+      "end position in commit": 141
+    },
+    {
+      "commit": "06fb807903151f7d34ee85bd22b436b35d94c859",
+      "author": "Artem Payvin",
+      "committed date": 1613257334,
+      "key word": "git",
+      "end position in commit": 133
+    },
+    {
+      "commit": "dd9ae9d2f851de59caf20e0baeed7a4b94321e74",
+      "author": "Artem Payvin",
+      "committed date": 1613212515,
+      "key word": "git",
+      "end position in commit": 141
+    },
+    {
+      "commit": "02e67f3c903fb95c0b622885174e0c7d9d0df6d9",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1613145083,
+      "key word": "git",
+      "end position in commit": 133
+    },
+    {
+      "commit": "8c805f1755863cd4a988f6efd3e835faa9b84747",
+      "author": "Artem Payvin",
+      "committed date": 1613140238,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "e5e13dae1db159c1783e8f7971ef69c81f878028",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613138488,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "6047a609e1a6e089d38e130ef79dac6baecc6e51",
+      "author": "Artem Payvin",
+      "committed date": 1613137648,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "de5ef2fb3bdc52796cf8aa0ce40b4c324577120f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1613121879,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "c3b57e396a2807325e3f283925a20db2c8ce87f5",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1613073965,
+      "key word": "git",
+      "end position in commit": 145
+    },
+    {
+      "commit": "da13772ecc2a2d35b8e20c52b83802b0726a12fc",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613073055,
+      "key word": "git",
+      "end position in commit": 153
+    },
+    {
+      "commit": "37060838d49304064184808bb5cc1ff0e713e80d",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613073035,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "47b387294aa56a97c517737e0d05cc76c793f0fa",
+      "author": "Artem Payvin",
+      "committed date": 1613070323,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "df92a20cf9bd92f44bec761bb122c1885b703a58",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613068256,
+      "key word": "git",
+      "end position in commit": 153
+    },
+    {
+      "commit": "b0722905f499efc655d464bf0955f26b995f1d1b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613068243,
+      "key word": "git",
+      "end position in commit": 119
+    },
+    {
+      "commit": "deab318dab959b00cc77a2fe9734a3f50ffb34e7",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613060488,
+      "key word": "git",
+      "end position in commit": 153
+    },
+    {
+      "commit": "1134e40989c7922d5d75e8ce9477513844617548",
+      "author": "Dmytro",
+      "committed date": 1613059386,
+      "key word": "git",
+      "end position in commit": 145
+    },
+    {
+      "commit": "6c1b4a91dec52116878c5ebb4091166702239320",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613059172,
+      "key word": "git",
+      "end position in commit": 146
+    },
+    {
+      "commit": "e706349b209d9224477bf0c168cafbe1e672e1e8",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613056908,
+      "key word": "git",
+      "end position in commit": 146
+    },
+    {
+      "commit": "3e60fb8dc9dc54bf2003ab27dcde6ec4c47e2ba7",
+      "author": "Vadim Yavorsky",
+      "committed date": 1613056606,
+      "key word": "test",
+      "end position in commit": 58
+    },
+    {
+      "commit": "326a99e6e2e58cf2c35eccae0e17d9c507a87a67",
+      "author": "Artem Payvin",
+      "committed date": 1612989817,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "d779fce1b94d4f905e60bbe5623f9885d888ae2f",
+      "author": "Artem Payvin",
+      "committed date": 1612984588,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "85de871e18f419ab925c3ab3e3125875484d2145",
+      "author": "Artem Payvin",
+      "committed date": 1612984188,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "fc893d86602b2c3937463de863d7bdfb6e2a4d84",
+      "author": "Artem Payvin",
+      "committed date": 1612983364,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "17f8afc0ed7e024fc9c1f67822c63f72ffe21b7f",
+      "author": "Artem Payvin",
+      "committed date": 1612983162,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "5230ce656af8c9c083b6fe4172139c26a679813f",
+      "author": "Vadim Yavorsky",
+      "committed date": 1612975734,
+      "key word": "git",
+      "end position in commit": 146
+    },
+    {
+      "commit": "33257781a2b49282f1c882224552f70b0a29861d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612974280,
+      "key word": "test",
+      "end position in commit": 63
+    },
+    {
+      "commit": "1688747aff7b3ff216b6451b74f0f13bd9526edb",
+      "author": "Vadim Yavorsky",
+      "committed date": 1612968983,
+      "key word": "test",
+      "end position in commit": 70
+    },
+    {
+      "commit": "01a45ccd7a04ad58dbe0531544d23cb8c02a6398",
+      "author": "Vadim Yavorsky",
+      "committed date": 1612957684,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "d9cf9e5418c5b585d5100521cf309446558de3bc",
+      "author": "Artem Payvin",
+      "committed date": 1612956649,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "cb623d61b03d49ad0917d5708aa3c18ff2e8a7a8",
+      "author": "Vadim Yavorsky",
+      "committed date": 1612902981,
+      "key word": "git",
+      "end position in commit": 146
+    },
+    {
+      "commit": "01307ca217be21bdf3882aaa1d9493868a1b4524",
+      "author": "Artem Payvin",
+      "committed date": 1612902167,
+      "key word": "test",
+      "end position in commit": 47
+    },
+    {
+      "commit": "e55d9e4587eeb3983c4348635fcb2642fb8a39a0",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612899649,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "05fab137727b9ef5b8cb9d31d5c2a0f2ae9341c9",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612889537,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "ca1011176fad8cb8b00c7befb45c809632e4d0a7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612884924,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "647e70be34e6e9e896df3633fecc804fd0d4841c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612883936,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "c7078c3bfc99c71c60012b40b9b6b4cea2603b2d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612883562,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "77923013c466dea35e03f448454d2fc2c93479fb",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612883194,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "6c6c0549b147b52e47fd0af9ea2e9639649b32f6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612881170,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "bd74fad26b58dc672974d001d47c9ca1da7abd48",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612881126,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "260aed3df40332146e419b99740c54d0119c3266",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612879577,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "bb96eb7418ee43875b50af8577aa6c185d7d2b5b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1612879308,
+      "key word": "git",
+      "end position in commit": 146
+    },
+    {
+      "commit": "7493b014459297d05669f2ee6fbbcc76a9fa8485",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612878647,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "a8c0faaa944b21fac6f0618d8073884ac02d847c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612874422,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "8728a1b5b8bcdf8ee71350067a98fa2066bfbfb2",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612868107,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "e3c065f5a374429eb5dbb4101c8fd0da22df900c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612866314,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "c8d4196b213ef8173c539265b006a9be368c6519",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612812285,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "6f4a01658742af5f4405e3b60e09ed3a9c6dc8e5",
+      "author": "Vadim Yavorsky",
+      "committed date": 1612810111,
+      "key word": "git",
+      "end position in commit": 146
+    },
+    {
+      "commit": "e12c1c05b917de4d125667fe1ca48c9ade840b64",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612808766,
+      "key word": "test",
+      "end position in commit": 45
+    },
+    {
+      "commit": "0f25cfc7cf9ec2933632abd61aee2ad0362a0343",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612807055,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "aa2ab27126bfd650d235377e72ceca8240f71d2b",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612803114,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "270c1dfadeea52c60331cb9bde57c152600d4a3c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612800706,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "f45875e48681eaf977d62ae9a11b74a79c2144b4",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612799866,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "f180c672d54f73be7c4060e1ef37aca2a6820bb3",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612799564,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "8beaceff17857e40602b1790e61184c85dfd6601",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612792324,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "9967660276f88f309e12353baafec396e25f7e3c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612791118,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "7f8eb51463ed0e2c6100f7a6bcc87a73bc062927",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612790984,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "0d648f493fcdd162722c00eb9371e9a489225984",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612787189,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "40388be5d00e73fe75c0a5fc4ad1a6481d1d2e7f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612779381,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "a857b50c307a1c58ac9c25471fb07fa54d800932",
+      "author": "Artem Payvin",
+      "committed date": 1612666128,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "3638d0b38818c5e7ad00b7bedab771beafca2db2",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612539647,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "191bfc83efe9611fceac3ebe6ac52fe78c6e058a",
+      "author": "Artem Payvin",
+      "committed date": 1612537873,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "793f9c98ab68b0912633114ddf803a9db57c0d58",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1612535099,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "328b924ff4167e96c9a5c172ff82fe680bd9e33b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1612522819,
+      "key word": "git",
+      "end position in commit": 153
+    },
+    {
+      "commit": "2b5072b0cd77acb8015e8ee482821365d9594a42",
+      "author": "Vadim Yavorsky",
+      "committed date": 1612192269,
+      "key word": "git",
+      "end position in commit": 125
+    },
+    {
+      "commit": "c2f595c167ba5cf0519ffbf5191727b75a083528",
+      "author": "Artem Payvin",
+      "committed date": 1612181164,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "ae5f1df0dd438dd6def1428bf1446fb6d44ec9e5",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611951513,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "08c0d2c2ed5b9fea38c75fc58104ed7fb8bea1e1",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611858900,
+      "key word": "git",
+      "end position in commit": 153
+    },
+    {
+      "commit": "d19ee411dfda008e3ce5d18417aeb7f3e4d8946f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1611851953,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "4ae783450361c4b99b694dc6c06f820fcc592493",
+      "author": "Artem Payvin",
+      "committed date": 1611765280,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "5a15635c804426d67ce7ebb0e5f1a5b4bb9df1af",
+      "author": "Artem Payvin",
+      "committed date": 1611747226,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "3255044f9a66d4faabdaedfcf5b142cca0f6485f",
+      "author": "Artem Payvin",
+      "committed date": 1611747127,
+      "key word": "test",
+      "end position in commit": 27
+    },
+    {
+      "commit": "9e6a2d10ac23a27d72a2506a2fb30fce5fd6ab56",
+      "author": "Artem Payvin",
+      "committed date": 1611693426,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "663b5e84484bcc40ab39bf5cf8060624d7ecbe4f",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611672766,
+      "key word": "test",
+      "end position in commit": 56
+    },
+    {
+      "commit": "106d26dd434426ea2388459c7a2656ebd40f2a93",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611657424,
+      "key word": "git",
+      "end position in commit": 119
+    },
+    {
+      "commit": "fa14549736160c0d331ea9dfdc99374629fd6025",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611606403,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "37422cc4de0accf2c88f0a02a1acef015aef1c5b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611596626,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "a6a1f36ba49ffe82e3b3556aa5908f1c190ca056",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611596101,
+      "key word": "git",
+      "end position in commit": 119
+    },
+    {
+      "commit": "856918c2c32f9cb0fed6d3cc9133226d714b64b7",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611594498,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "3c95239ce6ba5876e1fd6305b2147ac3ba3a0128",
+      "author": "Artem Payvin",
+      "committed date": 1611583457,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "dec1413ca60e96c54bce117aaab6a961bfd6d0e8",
+      "author": "Vadim Yavorsky",
+      "committed date": 1611579503,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "146cdd8f3fb5d57b4eddf4e7d391fde80820a7f4",
+      "author": "GitHub",
+      "committed date": 1611378449,
+      "key word": "git",
+      "end position in commit": 329
+    },
+    {
+      "commit": "583207351d0c0939cda56208f3d619ef35dfbab1",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1611059168,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "6169b463ef373283578157e0e8454fbbc7561c8e",
+      "author": "Artem Payvin",
+      "committed date": 1610832713,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "3e6cb70ce3f48c93e0fa3431c8c256ffb2a23c2f",
+      "author": "Artem Payvin",
+      "committed date": 1610828633,
+      "key word": "test",
+      "end position in commit": 52
+    },
+    {
+      "commit": "1d96ff685f630c1971524b00173d4b8eb51afaa2",
+      "author": "Artem Payvin",
+      "committed date": 1610733577,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "4912583ed45f188c7e3b2e9bf373b818f3fc0dbd",
+      "author": "Artem Payvin",
+      "committed date": 1610723245,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "064fda4b9087848a2b68e7296f7dec2da90da383",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1610720152,
+      "key word": "git",
+      "end position in commit": 133
+    },
+    {
+      "commit": "0a4631c5fc26a89b9e725eb4f6d949e393f0822f",
+      "author": "GitHub",
+      "committed date": 1610375168,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "0ecdab25f8a9bfb0abf85be172a90a2b47d3bd0d",
+      "author": "Artem Payvin",
+      "committed date": 1610368878,
+      "key word": "test",
+      "end position in commit": 64
+    },
+    {
+      "commit": "ce54bf9f771e9ae15c6aef6339990ec1b9921841",
+      "author": "GitHub",
+      "committed date": 1610366188,
+      "key word": "git",
+      "end position in commit": 65
+    },
+    {
+      "commit": "bbeaecccd3dee814b942adeb9ef0927f6c616882",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1610363436,
+      "key word": "credentials",
+      "end position in commit": 34
+    },
+    {
+      "commit": "08725fe500b48a4e7506c6a7735408d3bd92f8ab",
+      "author": "Artem Payvin",
+      "committed date": 1610128022,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "90e0ef6193d794006e611ba456e9a0e9d9906322",
+      "author": "Artem Payvin",
+      "committed date": 1610121814,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "c0645b105d3bb7a034c314dc073e801820727135",
+      "author": "GitHub",
+      "committed date": 1610115197,
+      "key word": "git",
+      "end position in commit": 110
+    },
+    {
+      "commit": "62992bcddb921721ac8ea84e643b214daa0b6d49",
+      "author": "Artem Payvin",
+      "committed date": 1610114902,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "43f201b850b163c5f328e5c964d6d0e4ef8806a2",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1609846617,
+      "key word": "git",
+      "end position in commit": 66
+    },
+    {
+      "commit": "4a6f83d0804ea2d2e565fb5060f5a35bcc234954",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1609837626,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "d4ca08be35aae7b6a93945bf5bdb227a96e4a885",
+      "author": "Artem Payvin",
+      "committed date": 1609774270,
+      "key word": "test",
+      "end position in commit": 9
+    },
+    {
+      "commit": "87cca79c1aaf828ce36bd1cdd2695dbd757ac15d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1609772660,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "2b5f39753cb37c6907afcb4cb00154d89619fff4",
+      "author": "Artem Payvin",
+      "committed date": 1609755604,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "0d1af9a8e488f098df873bcfb2d888877b377980",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1609415819,
+      "key word": "git",
+      "end position in commit": 49
+    },
+    {
+      "commit": "986685d9b7f4efaff2ac429f4c585beb6e4c2ade",
+      "author": "Vadim Yavorsky",
+      "committed date": 1609346216,
+      "key word": "git",
+      "end position in commit": 117
+    },
+    {
+      "commit": "047a0c56356a39d7023a25d79f3d29867fed55e2",
+      "author": "Artem Payvin",
+      "committed date": 1609179469,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "0e744b6701242908bbf429dead8d677a9d853d38",
+      "author": "Vadim Yavorsky",
+      "committed date": 1608824738,
+      "key word": "git",
+      "end position in commit": 131
+    },
+    {
+      "commit": "7a8e2facdbdd45700fb40896a68d0618e74395ad",
+      "author": "Artem Payvin",
+      "committed date": 1608819386,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "3784691b92dc6d7aea97ceecbcf28e686cf32152",
+      "author": "Vadim Yavorsky",
+      "committed date": 1608736673,
+      "key word": "git",
+      "end position in commit": 99
+    },
+    {
+      "commit": "30507c43651d17f4947d7af5d4cc1b5dee1bb93b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1608658147,
+      "key word": "git",
+      "end position in commit": 99
+    },
+    {
+      "commit": "fcc6035ec4beaf2e5d7055966e2ffccb517a3465",
+      "author": "GitHub",
+      "committed date": 1608571997,
+      "key word": "git",
+      "end position in commit": 481
+    },
+    {
+      "commit": "f6fb2d1e3675f0b68cebbe000aca9de35311414a",
+      "author": "GitHub",
+      "committed date": 1608546236,
+      "key word": "git",
+      "end position in commit": 329
+    },
+    {
+      "commit": "8d13fd0350ad93df43db85aeb3c106214bfa0134",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1608303808,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "8c892fec92e78528148f373b69136bc3b9eaf008",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1608302016,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "f2f5db36dbf21f778bf0282787293bc324c61836",
+      "author": "GitHub",
+      "committed date": 1608290894,
+      "key word": "git",
+      "end position in commit": 271
+    },
+    {
+      "commit": "9162cfabe54b1f3308490616ca4dff1fcfe2fbfa",
+      "author": "GitHub",
+      "committed date": 1607531839,
+      "key word": "git",
+      "end position in commit": 314
+    },
+    {
+      "commit": "c5a2eacf9d09852cebc89c2e69cd109ef0d7a8fb",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1607505304,
+      "key word": "test",
+      "end position in commit": 47
+    },
+    {
+      "commit": "de6fe31e5e9b17ea21bed621bc982329f4166054",
+      "author": "Artem Payvin",
+      "committed date": 1607451053,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "9e1f12c5a59927071343a92d34eedc9144e3c812",
+      "author": "Artem Payvin",
+      "committed date": 1607420911,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "6c53cdc2855f4c7fbde99fce81328203ecd3c5fc",
+      "author": "Artem Payvin",
+      "committed date": 1607365377,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "89f00649372fb25c1c1c35654dbb4e2c8f188102",
+      "author": "Artem Payvin",
+      "committed date": 1606932970,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "3a3da55bdafdfb2274aa02b5fe23d2e9d9bfe992",
+      "author": "Artem Payvin",
+      "committed date": 1606913121,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "110f2a66b5605edd86d9deaa922d4e4d24658318",
+      "author": "Artem Payvin",
+      "committed date": 1606833080,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "db2b725ca024af481592da9b571ecb80e5304759",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1606831723,
+      "key word": "git",
+      "end position in commit": 129
+    },
+    {
+      "commit": "d8de03ddc293ac99a930d38681f11b447656a122",
+      "author": "Artem Payvin",
+      "committed date": 1606749229,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "f9219d247ffc918922417684e080a034b2aa9d17",
+      "author": "Artem Payvin",
+      "committed date": 1606558580,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "733fa6a48d167bb845c2cf187387f165fd145e41",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1606209896,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "3ac92afdc7ae203c6b6515a7a0a909f66c36277f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1605886868,
+      "key word": "test",
+      "end position in commit": 76
+    },
+    {
+      "commit": "bc4bb34fdf03d0b259b920cfdeeca211a948eb48",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1605884069,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "b1da25ad2ef7fba7bb7a3920625aebe389e8d564",
+      "author": "Artem Payvin",
+      "committed date": 1605707778,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "da0bab078f1a1c20636837aaac76fc0350478a5a",
+      "author": "Artem Payvin",
+      "committed date": 1605704546,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "5685a948d3981dffa2784c902354f77fed9ab8d0",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1605631374,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "ff5e3cc3c1be4267b684c280c16b6ea9171cb7ce",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1605629735,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "b916396f3cf578c6eb18df89938796b71a978c25",
+      "author": "GitHub",
+      "committed date": 1605276269,
+      "key word": "test",
+      "end position in commit": 73
+    },
+    {
+      "commit": "1f14f93cf748f93b2ed8f13eaec82aa554550f11",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1604929697,
+      "key word": "test",
+      "end position in commit": 53
+    },
+    {
+      "commit": "4c0029e76f1c409f5831bddcf35bcbad488672ba",
+      "author": "Artem Payvin",
+      "committed date": 1604877258,
+      "key word": "test",
+      "end position in commit": 52
+    },
+    {
+      "commit": "36a9dba7f66cf5d43e642a98b660aee4a71c9649",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603987416,
+      "key word": "test",
+      "end position in commit": 87
+    },
+    {
+      "commit": "b97eccd02b24759f1ef8d668bf6a46c3275d6a11",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603986720,
+      "key word": "git",
+      "end position in commit": 110
+    },
+    {
+      "commit": "6f64a76f0391c96c6e82114be52435dae845cdd4",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603908093,
+      "key word": "test",
+      "end position in commit": 15
+    },
+    {
+      "commit": "3d76adc6dfd5ead0b3256311b822062bd19c7610",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603900996,
+      "key word": "git",
+      "end position in commit": 124
+    },
+    {
+      "commit": "96e5a2332f80f49338927a968ab7e3e0dbaa4c61",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603833987,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "e9bc366917f34e73b5b1443e289d404577d2ae71",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603829673,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "b52e7eca340411f495c9f608ea5446169ad98706",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603824644,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "95d3fbc3ca2f9f20622a24322faa033e01b9b7fe",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603726784,
+      "key word": "test",
+      "end position in commit": 19
+    },
+    {
+      "commit": "ac9d37a0ef0e05bf6601cff3c9cd555fc4ef7b6b",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603721263,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "d37691f063cc2d7926fc49a699bf245951ddf249",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603719893,
+      "key word": "git",
+      "end position in commit": 124
+    },
+    {
+      "commit": "20bd1f351f5d4013c2000812c64023386d9f9cd4",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603714077,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "55802880981148631218b12387566cec266be3f6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603705677,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "961ef9655dd72eeba4893b130c0b66bc2e80dda1",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603703060,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "b458949451a42075f258935d5acecc9403003a90",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603560007,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "b713ff7b635c854aa10778bc774de37efb7627cf",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603466724,
+      "key word": "test",
+      "end position in commit": 46
+    },
+    {
+      "commit": "590ca7043e7c04094b5644f3ae6cd8d952c205be",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603373498,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "650059c40950a53d6e89216f9e5350ed7e1284c2",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603370956,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "3b5d4d37fecbfc5a1a68c2baded1b9cd7a00ee8c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603362995,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "0ee92d6b01227912ecfc7420a2d66d3352c05298",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603201823,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "7f570a834459affb8ba345209d06545ad1672743",
+      "author": "GitHub",
+      "committed date": 1603186483,
+      "key word": "git",
+      "end position in commit": 437
+    },
+    {
+      "commit": "4ff3fea2fc116f539c8763621a81aa00d8435188",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603127487,
+      "key word": "git",
+      "end position in commit": 137
+    },
+    {
+      "commit": "3d0133c40ecb50d8881edc7d2f4c1820867cfffe",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603122796,
+      "key word": "test",
+      "end position in commit": 74
+    },
+    {
+      "commit": "59e2504c5ea0e3196003d73502f50dd5bf4c47c2",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1603112885,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "d62b3e18199821d4c4a407f56a91a2accc6bac94",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603052028,
+      "key word": "git",
+      "end position in commit": 151
+    },
+    {
+      "commit": "b9830ee1f750ebdca408b4343e45c7bba07705e7",
+      "author": "Vadim Yavorsky",
+      "committed date": 1603051824,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "11178cd3970f09c34f1fb77c0798dab2dc702442",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1602881119,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "ee6ca4d83e3b6411faceb1a149371d969a838559",
+      "author": "Artem Payvin",
+      "committed date": 1602862854,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "c50b1310b58da418c4ac9e769098bc0577190125",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1602853370,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "b31daff2de8d6b99b6b560e00dddaaa33cfbecaa",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1602843104,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "9bc69d1e547dc3fa26778577230cbf85d165f3da",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1602839079,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "5ef56e4ef4d5639dd3186e5552323bed672abad9",
+      "author": "GitHub",
+      "committed date": 1602835113,
+      "key word": "test",
+      "end position in commit": 145
+    },
+    {
+      "commit": "2e96dfae7ef151e5be2e46d4a7928321622192c3",
+      "author": "Artem Payvin",
+      "committed date": 1602771420,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "976dfddf5c14c444513075eab3863ad59f2584e3",
+      "author": "Artem Payvin",
+      "committed date": 1602759512,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "cd1afe168cd26e0aa01b0938ed272dd09fca701e",
+      "author": "GitHub",
+      "committed date": 1602496501,
+      "key word": "git",
+      "end position in commit": 348
+    },
+    {
+      "commit": "76077b62f77ddea653bfc2f3ba1e888f246f8b6d",
+      "author": "GitHub",
+      "committed date": 1602306440,
+      "key word": "git",
+      "end position in commit": 306
+    },
+    {
+      "commit": "b56f5a5d38796621b426a1fada8ad887e8b0a509",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1602238088,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "16f08bfbf178b2ba158094cfdb4ce37b8a0abdb1",
+      "author": "GitHub",
+      "committed date": 1602235400,
+      "key word": "git",
+      "end position in commit": 315
+    },
+    {
+      "commit": "b1275df442f2424d65b0f33d400a7dc670d898fe",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1602189739,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "da15c991e8699dac95838be3b62c3cab7d7aff35",
+      "author": "GitHub",
+      "committed date": 1602097473,
+      "key word": "git",
+      "end position in commit": 375
+    },
+    {
+      "commit": "06f8e1c746bef54fabca186830410908665924f2",
+      "author": "GitHub",
+      "committed date": 1602078663,
+      "key word": "git",
+      "end position in commit": 332
+    },
+    {
+      "commit": "dc02aeaefdd4bb437e040f92e676be94787ec872",
+      "author": "GitHub",
+      "committed date": 1602056339,
+      "key word": "git",
+      "end position in commit": 377
+    },
+    {
+      "commit": "2ec670c476c5686dc15ad1491219bb5422430792",
+      "author": "Vadim Yavorsky",
+      "committed date": 1601973464,
+      "key word": "test",
+      "end position in commit": 27
+    },
+    {
+      "commit": "a1d4fb97e2520fb3fcf59668e1a0e7033dd7b36a",
+      "author": "Vadim Yavorsky",
+      "committed date": 1601924421,
+      "key word": "git",
+      "end position in commit": 111
+    },
+    {
+      "commit": "8bb55ee0308a2d74f38eac390b1a9a22b83ac11c",
+      "author": "GitHub",
+      "committed date": 1601900905,
+      "key word": "git",
+      "end position in commit": 389
+    },
+    {
+      "commit": "1762976faa4c0d05a92f6456fd2f5a3eac052593",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1601892173,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "4188772c9859ed689b77acda20be8a542e966e84",
+      "author": "Vadim Yavorsky",
+      "committed date": 1601653042,
+      "key word": "git",
+      "end position in commit": 111
+    },
+    {
+      "commit": "e70befde30cc0aabfbf9f6c0ed709366ba7961fd",
+      "author": "GitHub",
+      "committed date": 1601627335,
+      "key word": "git",
+      "end position in commit": 303
+    },
+    {
+      "commit": "65226986debd05c93df143c9339aa5e838a22d9d",
+      "author": "GitHub",
+      "committed date": 1601499047,
+      "key word": "git",
+      "end position in commit": 296
+    },
+    {
+      "commit": "758b87171872e7bccc91a7180e4b951a57d83ee8",
+      "author": "Artem Payvin",
+      "committed date": 1601474570,
+      "key word": "test",
+      "end position in commit": 53
+    },
+    {
+      "commit": "859fc0f1916bc2e8c8d5bec54380e6f90025a9ac",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1601473207,
+      "key word": "test",
+      "end position in commit": 27
+    },
+    {
+      "commit": "c8216f5307064ca6e07e6240136b5dcf10637cac",
+      "author": "Artem Payvin",
+      "committed date": 1601469754,
+      "key word": "test",
+      "end position in commit": 47
+    },
+    {
+      "commit": "62814a1ae01f2467579da3de71ac33560d522191",
+      "author": "Artem Payvin",
+      "committed date": 1601463301,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "8a9d8edbac800a4811fded1191d3776bc7e16377",
+      "author": "Artem Payvin",
+      "committed date": 1601461563,
+      "key word": "test",
+      "end position in commit": 51
+    },
+    {
+      "commit": "0741f34b86d595693f9908d8ddee90df50a9bbbf",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1601460140,
+      "key word": "test",
+      "end position in commit": 47
+    },
+    {
+      "commit": "c6640a6babc011668e09b62437882f5cb139890a",
+      "author": "Artem Payvin",
+      "committed date": 1601403262,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "a93b097df6d2dda1d4c329c74e49435df16f6408",
+      "author": "Artem Payvin",
+      "committed date": 1601399746,
+      "key word": "test",
+      "end position in commit": 59
+    },
+    {
+      "commit": "991b34933cf51c1965e5f14aa556387047933394",
+      "author": "Artem Payvin",
+      "committed date": 1600277329,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "4bedbe94b8e615d2f82df8e810494c50fdf3ed48",
+      "author": "Vadim Yavorsky",
+      "committed date": 1600255681,
+      "key word": "git",
+      "end position in commit": 131
+    },
+    {
+      "commit": "aeaca97531865871e6c2379076624b55c3e92631",
+      "author": "Vadim Yavorsky",
+      "committed date": 1600254840,
+      "key word": "git",
+      "end position in commit": 108
+    },
+    {
+      "commit": "30a050557a25e92f307c612bc95fbe4040285a64",
+      "author": "Vadim Yavorsky",
+      "committed date": 1599848887,
+      "key word": "test",
+      "end position in commit": 55
+    },
+    {
+      "commit": "988c988a35e752ccef2c0a33cbb21d766a7bb269",
+      "author": "Vadim Yavorsky",
+      "committed date": 1599844039,
+      "key word": "test",
+      "end position in commit": 55
+    },
+    {
+      "commit": "bbf8a0ecfb0ef1b0a76e537b6cdecdf8eda83085",
+      "author": "Vadim Yavorsky",
+      "committed date": 1599841062,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "48e72ba3978fed200227aac71ac69bbcfcda8c54",
+      "author": "Artem Payvin",
+      "committed date": 1599840709,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "3825244c130832386e2319a97f7d0f92ce7ed6c7",
+      "author": "Artem Payvin",
+      "committed date": 1599831645,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "837375647a8f251cb585fd7fbce8d2635e734019",
+      "author": "Vadim Yavorsky",
+      "committed date": 1599763803,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "2b40492ab915c7569e8a1270159bcaaad1263881",
+      "author": "Vadim Yavorsky",
+      "committed date": 1599762532,
+      "key word": "git",
+      "end position in commit": 131
+    },
+    {
+      "commit": "4a5ade399e27f90d809bfdc83f6bb5beb6966952",
+      "author": "Artem Payvin",
+      "committed date": 1599653475,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "2f4769e9cdbe6096882b844acbb8979cb19c1003",
+      "author": "Artem Payvin",
+      "committed date": 1599649855,
+      "key word": "git",
+      "end position in commit": 181
+    },
+    {
+      "commit": "01369c404f4f1853ebd377fe7bd144b98016ab62",
+      "author": "Artem Payvin",
+      "committed date": 1599649836,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "888fd95233f0b56616a49b608b486311de2edecb",
+      "author": "Artem Payvin",
+      "committed date": 1599648412,
+      "key word": "test",
+      "end position in commit": 45
+    },
+    {
+      "commit": "9531a950bcfed8f59dcc5bbdf4a242cd92cc459c",
+      "author": "Artem Payvin",
+      "committed date": 1599647228,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "6dd6c5621f2fa7ea32786e29dc3276d8142750ac",
+      "author": "Artem Payvin",
+      "committed date": 1599585921,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "5f1cf48c4669cd51f424d59b54b72e372d569f72",
+      "author": "Artem Payvin",
+      "committed date": 1599501719,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "22028b5f0e4533d30e943d4335566346150a92c5",
+      "author": "Artem Payvin",
+      "committed date": 1599224483,
+      "key word": "git",
+      "end position in commit": 129
+    },
+    {
+      "commit": "0ca4784287588eb71e93ccc30f49a890094a15c5",
+      "author": "Artem Payvin",
+      "committed date": 1599222360,
+      "key word": "test",
+      "end position in commit": 56
+    },
+    {
+      "commit": "8c2f6e17d3bee8362c8adaec3851afb60eb6e3eb",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1599132737,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "c101c41b2d5e0fc7f25f87e8078655a4847b1c37",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1599035459,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "d3191417f762b6c7c78fcff0d03a40da054abbff",
+      "author": "Artem Payvin",
+      "committed date": 1598968215,
+      "key word": "test",
+      "end position in commit": 9
+    },
+    {
+      "commit": "a301b9dbbbf25ad294e718e8e43f43107a347fbf",
+      "author": "Artem Payvin",
+      "committed date": 1598721308,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "5cf3a6d018c806b04bbb7b854f3093b10fbb041a",
+      "author": "Artem Payvin",
+      "committed date": 1598717902,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "602259227cede4db9862b23d3d9614b7d6e386e4",
+      "author": "Chadwick Strange",
+      "committed date": 1598524897,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "62311c2f9de451c4854298360059384c3e396a06",
+      "author": "Chadwick Strange",
+      "committed date": 1598521906,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "936a56e98e920af0c49898b319b3283196b4da66",
+      "author": "Chadwick Strange",
+      "committed date": 1598514854,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "6164b43482c9ec1b39fe0a7af186af4bfcb1877c",
+      "author": "Chadwick Strange",
+      "committed date": 1598514697,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "8bcb211185a4036201f7c7ef67cd71cc7e307e82",
+      "author": "Chadwick Strange",
+      "committed date": 1598367620,
+      "key word": "git",
+      "end position in commit": 17
+    },
+    {
+      "commit": "ecbab0daba3653fb4cfd07f9a4aefba87ca04749",
+      "author": "Artem Payvin",
+      "committed date": 1598262701,
+      "key word": "test",
+      "end position in commit": 46
+    },
+    {
+      "commit": "6391a289407bd48673643223caed9c4952ea1129",
+      "author": "Artem Payvin",
+      "committed date": 1597991786,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "478c961e8b7aff24a675d2e81882369ac5598cda",
+      "author": "Vadim Yavorsky",
+      "committed date": 1597849269,
+      "key word": "test",
+      "end position in commit": 43
+    },
+    {
+      "commit": "ae714a449a3de31333a23a1f4d080ffdae2c4e2f",
+      "author": "Vadim Yavorsky",
+      "committed date": 1597840387,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "161bde12ae2d686452bafc78070c590627f1227d",
+      "author": "Vadim Yavorsky",
+      "committed date": 1597771600,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "febbaf0151a501f0f85f551587b8da769cccba9f",
+      "author": "Chadwick Strange",
+      "committed date": 1597763464,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "705cef32991f9a11bf0b949cdf8f37f042fcdd11",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1597393659,
+      "key word": "git",
+      "end position in commit": 111
+    },
+    {
+      "commit": "eaccef4bed0d010d0a1e0991febba0d5d0aec0da",
+      "author": "Artem Payvin",
+      "committed date": 1597238511,
+      "key word": "test",
+      "end position in commit": 27
+    },
+    {
+      "commit": "026a0d264b41cddc9eb9126acd77f20ec8f5ee4d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1597235447,
+      "key word": "git",
+      "end position in commit": 121
+    },
+    {
+      "commit": "726039b48dd94f4fedf0427116f467bedc842464",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1597235374,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "9efcb50cf13f9f652f1a22d40d01489dbf9f8592",
+      "author": "Artem Payvin",
+      "committed date": 1596813194,
+      "key word": "test",
+      "end position in commit": 78
+    },
+    {
+      "commit": "ecb04aced5dec489932149e0675fa112515ab1b9",
+      "author": "Artem Payvin",
+      "committed date": 1596808103,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "2f5fc2ccaff653385182de106f5b944020a6abe4",
+      "author": "Artem Payvin",
+      "committed date": 1596798574,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "222847f6387c43621064fdd3d18c2d148b7862dc",
+      "author": "Vadim Yavorsky",
+      "committed date": 1596713494,
+      "key word": "test",
+      "end position in commit": 59
+    },
+    {
+      "commit": "b7b039a97dbf53f6554689459541809266d033d4",
+      "author": "Vadim Yavorsky",
+      "committed date": 1596641610,
+      "key word": "git",
+      "end position in commit": 109
+    },
+    {
+      "commit": "6e346877d63f458c37724fcb4f0de8300942dbed",
+      "author": "Artem Payvin",
+      "committed date": 1596533134,
+      "key word": "git",
+      "end position in commit": 153
+    },
+    {
+      "commit": "eb8707f177565bb849fa8f9d2a98a5deabaa2ed8",
+      "author": "Artem Payvin",
+      "committed date": 1596471673,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "b9b16050e51dde076c0ca2e08381ee8095acb30b",
+      "author": "Artem Payvin",
+      "committed date": 1596465178,
+      "key word": "test",
+      "end position in commit": 53
+    },
+    {
+      "commit": "a68b08f695999ad84652ecafa9232ece9c31b692",
+      "author": "Artem Payvin",
+      "committed date": 1596459307,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "64b9429f1d970f901586be14a1e2ceee93e6b878",
+      "author": "Artem Payvin",
+      "committed date": 1596458568,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "731825844e6ee81834b3d5474d38e4e49c70d502",
+      "author": "Artem Payvin",
+      "committed date": 1596187848,
+      "key word": "test",
+      "end position in commit": 51
+    },
+    {
+      "commit": "86376edff0fdb346288e0bdf03a9504888dc6ca4",
+      "author": "Artem Payvin",
+      "committed date": 1596136338,
+      "key word": "test",
+      "end position in commit": 55
+    },
+    {
+      "commit": "e7d9e468ea0bd2bcf1b154ede799c6115ed77d6b",
+      "author": "Artem Payvin",
+      "committed date": 1596119149,
+      "key word": "test",
+      "end position in commit": 57
+    },
+    {
+      "commit": "077557144206320c1faf683d9a579c2d14793411",
+      "author": "Artem Payvin",
+      "committed date": 1596048994,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "0dffa5fdf021570ef4f57075731cde1a34ce9cec",
+      "author": "Artem Payvin",
+      "committed date": 1596027640,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "f4e98abbaf0bbb6c1e6618172a9954f3477bef88",
+      "author": "GitHub",
+      "committed date": 1595503619,
+      "key word": "test",
+      "end position in commit": 168
+    },
+    {
+      "commit": "cf61461467c32025c60c872d008d0af12b0a4276",
+      "author": "Artem Payvin",
+      "committed date": 1595498695,
+      "key word": "test",
+      "end position in commit": 91
+    },
+    {
+      "commit": "8ef7429ce05f56474484440ffcb559d0aeb49088",
+      "author": "GitHub",
+      "committed date": 1594305652,
+      "key word": "test",
+      "end position in commit": 90
+    },
+    {
+      "commit": "f219cac09fbf6301fb5027a4925500744320f420",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1594220043,
+      "key word": "test",
+      "end position in commit": 27
+    },
+    {
+      "commit": "8939739b6a1044a53f79f5f894713c24f497afe9",
+      "author": "Artem Payvin",
+      "committed date": 1593639813,
+      "key word": "test",
+      "end position in commit": 81
+    },
+    {
+      "commit": "632400d33d24c1f49f6ae47edec65ad903ead277",
+      "author": "GitHub",
+      "committed date": 1593607423,
+      "key word": "test",
+      "end position in commit": 119
+    },
+    {
+      "commit": "5134d1949f7e933539f6197c72389dd70b4c62e9",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593603014,
+      "key word": "git",
+      "end position in commit": 131
+    },
+    {
+      "commit": "1edd8276f1c0451eefbff1939385fb3287e22c91",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593602936,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "e8f07ae63a3a572420833a7bc6921fbd39ed7bc3",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593531576,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "de54cdff4d18143af2435347344d0024af7a8a28",
+      "author": "Vadim Yavorsky",
+      "committed date": 1593524656,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "070e5693944823ede9b9e1ffc585d36f0580ed59",
+      "author": "Artem Payvin",
+      "committed date": 1593458418,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "3c57fc9dc48edc85ca0220bf13b9ee197430f834",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593238486,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "1c94c48077d4b5123887bb2633c8b70aba7d8d54",
+      "author": "Artem Payvin",
+      "committed date": 1593195838,
+      "key word": "test",
+      "end position in commit": 22
+    },
+    {
+      "commit": "d8428113fcaa3c2b2acd0bd6612a091ff5a8e5e7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593189804,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "63768ef0f2d951388c3b6315016273f5d9fa6431",
+      "author": "GitHub",
+      "committed date": 1593185658,
+      "key word": "test",
+      "end position in commit": 107
+    },
+    {
+      "commit": "933eb46a7cea088378f8d584e9a2626a16c538ec",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593183231,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "4dfcee154e4d2ab840c39e9bb236a6675013b76b",
+      "author": "GitHub",
+      "committed date": 1593154738,
+      "key word": "test",
+      "end position in commit": 92
+    },
+    {
+      "commit": "b4ba878428bb1518a68852f99583c7cbff6329b3",
+      "author": "Artem Payvin",
+      "committed date": 1593153707,
+      "key word": "test",
+      "end position in commit": 11
+    },
+    {
+      "commit": "7a6ff76f8e8fbb4b94f9ef4032b3d3e8c1610c5e",
+      "author": "Artem Payvin",
+      "committed date": 1593143562,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "36b62fdda98d4419dd92e57452aded873ed02b2d",
+      "author": "Artem Payvin",
+      "committed date": 1593142468,
+      "key word": "test",
+      "end position in commit": 69
+    },
+    {
+      "commit": "74aaf18baec5cd851638009dfb3dd72f8ce28864",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593109173,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "28f9d6caf11a0d9bd9e3494def4e59c9d4d84d55",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593106726,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "5678663c5158b9da2743ba03ea2c3e204a8e5c77",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593088056,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "80f038424bfbbd099b00be37fc37f14fd4edf9d1",
+      "author": "GitHub",
+      "committed date": 1593080033,
+      "key word": "git",
+      "end position in commit": 493
+    },
+    {
+      "commit": "8c93323c93c1b9e56f65a996828ba0546a2a6f94",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1593072275,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "32ed60c249bdc7a4ab5d237312a97be01c799a34",
+      "author": "Chadwick Strange",
+      "committed date": 1593026493,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "262e8de96425ec408208afd8f72ce2d77d5baa10",
+      "author": "Chadwick Strange",
+      "committed date": 1593021840,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "b0b135c0a80e28f7a52121803d6985bd26a7e2f0",
+      "author": "Chadwick Strange",
+      "committed date": 1593008174,
+      "key word": "test",
+      "end position in commit": 10
+    },
+    {
+      "commit": "fbf313035e81ade7f253f39e4343b91b46cf6157",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1592999294,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "6f773af13f23a4158a27c3dbdc3f1f874208bc60",
+      "author": "Vadim Yavorsky",
+      "committed date": 1592931900,
+      "key word": "git",
+      "end position in commit": 123
+    },
+    {
+      "commit": "3a119a926978d0849981e7edee75e8837c3b253d",
+      "author": "GitHub",
+      "committed date": 1592908392,
+      "key word": "git",
+      "end position in commit": 360
+    },
+    {
+      "commit": "aa04a81487dba8065500e65c37f208c822dd79e5",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1592897294,
+      "key word": "git",
+      "end position in commit": 306
+    },
+    {
+      "commit": "e181b722a51c283a93c8c74663269a5118495835",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1592843760,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "14216d85f97347b9ed788da7ef14078a1a6f4215",
+      "author": "GitHub",
+      "committed date": 1592665536,
+      "key word": "git",
+      "end position in commit": 341
+    },
+    {
+      "commit": "53351d6fcaeb487861c0ef8f736fa25fba550d2c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1592573655,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "7bf7a93e2419cc4e62d1aa578df44e07b4606e72",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1592498709,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "8a4c26db8dfbc711353a80a3e8225e7023a5ec97",
+      "author": "Vadim Yavorsky",
+      "committed date": 1592443347,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "c906fd1b91d02c65a1fe039d1db51c8a482065a0",
+      "author": "Artem Payvin",
+      "committed date": 1592223677,
+      "key word": "test",
+      "end position in commit": 18
+    },
+    {
+      "commit": "c7f99dcb95be43cba5b88af46fd6f904d1c98e7a",
+      "author": "Artem Payvin",
+      "committed date": 1592219219,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "b069f1496d7f048bc12fc27b883dfb3493e7399a",
+      "author": "GitHub",
+      "committed date": 1591891393,
+      "key word": "git",
+      "end position in commit": 493
+    },
+    {
+      "commit": "6f36b76db74895e6176ea3d0492727503f81a93c",
+      "author": "GitHub",
+      "committed date": 1591878381,
+      "key word": "git",
+      "end position in commit": 360
+    },
+    {
+      "commit": "02704f2d999bf9c10575027ed740423668a4ca03",
+      "author": "GitHub",
+      "committed date": 1591871424,
+      "key word": "git",
+      "end position in commit": 341
+    },
+    {
+      "commit": "6d665a8b193430d70c5a21a4ae5365c1d1d62bd1",
+      "author": "GitHub",
+      "committed date": 1591862672,
+      "key word": "git",
+      "end position in commit": 327
+    },
+    {
+      "commit": "247359aa6e5c20db4c9df5f0eeb539e9ad6fb6d9",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591777739,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "f84409d31bc83f795716e891efd53428de1951da",
+      "author": "GitHub",
+      "committed date": 1591777650,
+      "key word": "git",
+      "end position in commit": 357
+    },
+    {
+      "commit": "edfcbeba2cab292717c2fd4c3fbe255309b27e8e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591777098,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "1e026daf48f84a84312555664b96f2592fd05ddd",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591775735,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "db07a925c78ddad9242b9b6f2cb20149e601909e",
+      "author": "GitHub",
+      "committed date": 1591773334,
+      "key word": "git",
+      "end position in commit": 517
+    },
+    {
+      "commit": "751d418e2e202282714549d0e79de86f696007db",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591695538,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "ab97fa4264465c32ee0ec11a5a828d0bbc8ebd2d",
+      "author": "GitHub",
+      "committed date": 1591695453,
+      "key word": "test",
+      "end position in commit": 129
+    },
+    {
+      "commit": "1706f877e3f5782bbb8f6bf4d6402a131bec5709",
+      "author": "GitHub",
+      "committed date": 1591686951,
+      "key word": "test",
+      "end position in commit": 68
+    },
+    {
+      "commit": "389fc31ed0407f8fd24d8c2b5c535222f6988fe0",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591380045,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "d0953295e87fcfb28a7a58e277bd221bba907c7c",
+      "author": "GitHub",
+      "committed date": 1591372040,
+      "key word": "git",
+      "end position in commit": 321
+    },
+    {
+      "commit": "884dadca598087f96b43c079bd3313f832b252a1",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591282457,
+      "key word": "git",
+      "end position in commit": 144
+    },
+    {
+      "commit": "9d16a9f3aea2b9364aa194278cfb4c14586bb46d",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591277139,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "b3433032ab6a7c17f41ffa96ada29c681a2b92cd",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591208706,
+      "key word": "git",
+      "end position in commit": 115
+    },
+    {
+      "commit": "b9daaf9d96fbc8bc19fb2bdb60188618ee22ea58",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591205235,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "9a25503c8691e54d5edf55880a1cac748c2872f2",
+      "author": "GitHub",
+      "committed date": 1591177537,
+      "key word": "test",
+      "end position in commit": 68
+    },
+    {
+      "commit": "af25eb910ab55f93818d675115062d3141ae5ab5",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591159263,
+      "key word": "git",
+      "end position in commit": 115
+    },
+    {
+      "commit": "f872292026b66e19c084bb789fe52b7df44622b2",
+      "author": "Vadim Yavorsky",
+      "committed date": 1591086498,
+      "key word": "git",
+      "end position in commit": 97
+    },
+    {
+      "commit": "1b6edd7c9935c1c6bac140734c6b6b277b277de4",
+      "author": "GitHub",
+      "committed date": 1591020067,
+      "key word": "git",
+      "end position in commit": 365
+    },
+    {
+      "commit": "24e3ddb63104f6b306c2033bb810eb4c29258049",
+      "author": "Vadim Yavorsky",
+      "committed date": 1590998531,
+      "key word": "git",
+      "end position in commit": 97
+    },
+    {
+      "commit": "f6ce3a296403f373bd56841da86b758e4d5fd01d",
+      "author": "Vadim Yavorsky",
+      "committed date": 1590994207,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "802d6eb47162b1fdbf547522748adbd1a7b17c64",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1590765496,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "876f7d55c6f804fe94faa16efc0223b6d2b11359",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1590759361,
+      "key word": "test",
+      "end position in commit": 13
+    },
+    {
+      "commit": "9456bbc800bd27941f7266fe13ae75e8b473e3df",
+      "author": "GitHub",
+      "committed date": 1590484640,
+      "key word": "git",
+      "end position in commit": 341
+    },
+    {
+      "commit": "16bcccd47e57cc13d8a7246f76922dbd0e1d10f3",
+      "author": "Vadim Yavorsky",
+      "committed date": 1590454079,
+      "key word": "git",
+      "end position in commit": 97
+    },
+    {
+      "commit": "1750029168ee22032e18be7e4b5bbfd568dbd8c4",
+      "author": "Vadim Yavorsky",
+      "committed date": 1590448464,
+      "key word": "git",
+      "end position in commit": 115
+    },
+    {
+      "commit": "bc4dd2375d08d63f356bfa6ea99c13f2d092b12f",
+      "author": "Artem Payvin",
+      "committed date": 1590159518,
+      "key word": "test",
+      "end position in commit": 11
+    },
+    {
+      "commit": "39d5c944e8f71fae6af295688508fa7a0dc1cdec",
+      "author": "Artem Payvin",
+      "committed date": 1590157335,
+      "key word": "test",
+      "end position in commit": 13
+    },
+    {
+      "commit": "5af39890cddf29fb8371cf9d980a1335cc540dc3",
+      "author": "Artem Payvin",
+      "committed date": 1590144795,
+      "key word": "test",
+      "end position in commit": 63
+    },
+    {
+      "commit": "5a40b5674e316be029911469f3de2f5c768ba917",
+      "author": "GitHub",
+      "committed date": 1590134311,
+      "key word": "git",
+      "end position in commit": 327
+    },
+    {
+      "commit": "97e5d380e4758df0a5a6f799b90a3f3b7d65500b",
+      "author": "GitHub",
+      "committed date": 1590075321,
+      "key word": "git",
+      "end position in commit": 347
+    },
+    {
+      "commit": "cb7e68b704828874869fd4600501f1b597f90ca4",
+      "author": "GitHub",
+      "committed date": 1590061493,
+      "key word": "git",
+      "end position in commit": 321
+    },
+    {
+      "commit": "7ce13bcc7010c6f322655bd0fdf5f364895c228c",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589978423,
+      "key word": "test",
+      "end position in commit": 56
+    },
+    {
+      "commit": "f53b5406cbf2307a8f5ec5969fc4b16279c50650",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589978179,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "7b05486d8bd345a6ac33e30ab4efcbf97e4ee0e1",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589965281,
+      "key word": "git",
+      "end position in commit": 97
+    },
+    {
+      "commit": "795da604b87bec40f5ae2dab8153c77859780f2d",
+      "author": "Artem Payvin",
+      "committed date": 1589964955,
+      "key word": "test",
+      "end position in commit": 12
+    },
+    {
+      "commit": "70377577137d9ede960969aabfa6a8251854422b",
+      "author": "Artem Payvin",
+      "committed date": 1589920690,
+      "key word": "test",
+      "end position in commit": 12
+    },
+    {
+      "commit": "829e112f12456e3c4c022720b8db0285453baacd",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589903761,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "03dbac580b595257db6914dd5e487b8fa6fa9366",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589903609,
+      "key word": "git",
+      "end position in commit": 106
+    },
+    {
+      "commit": "b82a468c1cf204898a4e729d5f08af5c31722d8a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1589885324,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "aeb94a85d63e359c483215bd09cc81179d307318",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589825100,
+      "key word": "git",
+      "end position in commit": 106
+    },
+    {
+      "commit": "14e00b27c4f77b2cc556fd6300421bc5025969ee",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589755732,
+      "key word": "test",
+      "end position in commit": 46
+    },
+    {
+      "commit": "6fd5a01e4b77f67aff4465433c441ca51e5f5adc",
+      "author": "GitHub",
+      "committed date": 1589745270,
+      "key word": "git",
+      "end position in commit": 303
+    },
+    {
+      "commit": "cc8d4faee24389e1ef206819507bfa3c38f05bb3",
+      "author": "GitHub",
+      "committed date": 1589702427,
+      "key word": "git",
+      "end position in commit": 327
+    },
+    {
+      "commit": "422fb700297817e30c3c7344ae1edb2c690749b8",
+      "author": "GitHub",
+      "committed date": 1589649472,
+      "key word": "git",
+      "end position in commit": 344
+    },
+    {
+      "commit": "0f31cd256632e7248ccf3a2a62b768cb9d5fb4ed",
+      "author": "GitHub",
+      "committed date": 1589618000,
+      "key word": "git",
+      "end position in commit": 341
+    },
+    {
+      "commit": "d4e49c912936f3b1655e07bf0cce12ee043f7cdf",
+      "author": "Artem Payvin",
+      "committed date": 1589580291,
+      "key word": "test",
+      "end position in commit": 16
+    },
+    {
+      "commit": "b44958966ffd977caf3b9bb541f426e230063d8f",
+      "author": "Artem Payvin",
+      "committed date": 1589552602,
+      "key word": "test",
+      "end position in commit": 12
+    },
+    {
+      "commit": "e360f35adefb942e49b93be2c9b78119ac59c20f",
+      "author": "GitHub",
+      "committed date": 1589550903,
+      "key word": "git",
+      "end position in commit": 334
+    },
+    {
+      "commit": "53ec1e329de6c49aca9887387476055826968d0a",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589540199,
+      "key word": "git",
+      "end position in commit": 145
+    },
+    {
+      "commit": "ce4971a89b2295311c5f705c4c595199c4bfd71a",
+      "author": "GitHub",
+      "committed date": 1589530926,
+      "key word": "git",
+      "end position in commit": 404
+    },
+    {
+      "commit": "a2a824c986e5332ffb8b63720209ada9b5d42217",
+      "author": "GitHub",
+      "committed date": 1589479491,
+      "key word": "git",
+      "end position in commit": 318
+    },
+    {
+      "commit": "e68c48263837a7b7902046c4e335f187a5c24e1b",
+      "author": "GitHub",
+      "committed date": 1589452322,
+      "key word": "git",
+      "end position in commit": 472
+    },
+    {
+      "commit": "f1a2f617fb7f793b224346f9a84a6606ea2a33de",
+      "author": "GitHub",
+      "committed date": 1589444433,
+      "key word": "git",
+      "end position in commit": 455
+    },
+    {
+      "commit": "2cdf93f86a965d4e1ce4a215b5f721f270490542",
+      "author": "Artem Payvin",
+      "committed date": 1589390525,
+      "key word": "git",
+      "end position in commit": 119
+    },
+    {
+      "commit": "df68d2edb6912fc68d45c7f5efa4a41c5ead8fc0",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1589371046,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "641ea5540cd63e5a9590c17ccac81df7bcff792a",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589363822,
+      "key word": "git",
+      "end position in commit": 115
+    },
+    {
+      "commit": "07c8ce1207f54a6c5edae4d8a4cbf3f708178ca2",
+      "author": "Vadim Yavorsky",
+      "committed date": 1589162230,
+      "key word": "test",
+      "end position in commit": 43
+    },
+    {
+      "commit": "186bb824a8f8b3f66c0c542b3d60b9c006c626af",
+      "author": "Artem Payvin",
+      "committed date": 1588617129,
+      "key word": "test",
+      "end position in commit": 11
+    },
+    {
+      "commit": "07128035b67f456ee0f37012586a79d8666380ba",
+      "author": "Artem Payvin",
+      "committed date": 1588616608,
+      "key word": "git",
+      "end position in commit": 120
+    },
+    {
+      "commit": "4d70f9223dde456acf547d6d1dd867ad575305ea",
+      "author": "GitHub",
+      "committed date": 1588612706,
+      "key word": "test",
+      "end position in commit": 96
+    },
+    {
+      "commit": "e692a3c59c96e98869d9ceb8a5b79b4f42ef5fd7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1588597111,
+      "key word": "test",
+      "end position in commit": 55
+    },
+    {
+      "commit": "91a8aa1592787b582a9d31e26a5137387bd2c39a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1588251313,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "1b4ff4fa4c66b09d814ebe288c4af564985bc7ae",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1588244374,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "4dc50901d356b3ca48aab2d41139624e3a178c3a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1588157309,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "0a4761f89d9d0012f739041b549d71f7056bb67a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1588083350,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "70c75749861d7005696b0a944741ed7fd2612f50",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1588075719,
+      "key word": "git",
+      "end position in commit": 79
+    },
+    {
+      "commit": "881082482df3361779ed1a7dcf043128bbfd5f15",
+      "author": "GitHub",
+      "committed date": 1587992936,
+      "key word": "git",
+      "end position in commit": 377
+    },
+    {
+      "commit": "47f13bf10d524a4ebe4c7cc539fec995c57cd742",
+      "author": "GitHub",
+      "committed date": 1587981247,
+      "key word": "git",
+      "end position in commit": 315
+    },
+    {
+      "commit": "41170f86a8123719d36fb3777403c60e4f4a30e1",
+      "author": "GitHub",
+      "committed date": 1587730317,
+      "key word": "git",
+      "end position in commit": 341
+    },
+    {
+      "commit": "6604ed52d7af290dc6c6c4f3a151364adcd8168a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1587654447,
+      "key word": "test",
+      "end position in commit": 52
+    },
+    {
+      "commit": "05de3546e83cdec919dfe799a78b6e72e6cb60c0",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1587641588,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "ff520b38372838ca883c16ae034e1f4b50d6f7c7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1587553059,
+      "key word": "test",
+      "end position in commit": 46
+    },
+    {
+      "commit": "d8e55fe19678527cac4d289a1897bb6c5face7cb",
+      "author": "GitHub",
+      "committed date": 1587469988,
+      "key word": "git",
+      "end position in commit": 341
+    },
+    {
+      "commit": "7ec4fa0955807a6447131610b4b34766320aca6f",
+      "author": "GitHub",
+      "committed date": 1587457395,
+      "key word": "git",
+      "end position in commit": 315
+    },
+    {
+      "commit": "eeb3572a5ad075ca8a00e83e931fef2698be3e04",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1587045008,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "f5212c4c39404e876cd56027087abeabb0c8a6d6",
+      "author": "GitHub",
+      "committed date": 1587038812,
+      "key word": "git",
+      "end position in commit": 341
+    },
+    {
+      "commit": "c191d02de078cc3a5f07964eec894573624a1dff",
+      "author": "GitHub",
+      "committed date": 1587029937,
+      "key word": "git",
+      "end position in commit": 380
+    },
+    {
+      "commit": "f980a1322810f75dc9982adce0bb290bb6bd1f79",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1586966009,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "b0ecfaf9bbc8e0d77a3e4d895ae170599efd8b2e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1586962486,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "b33ba44fe1e97794bae2d38fe4696433d907fde4",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1586948122,
+      "key word": "test",
+      "end position in commit": 52
+    },
+    {
+      "commit": "2a2eb47770d89e1604d598fcc59cb2046d21a5a5",
+      "author": "GitHub",
+      "committed date": 1586944419,
+      "key word": "git",
+      "end position in commit": 352
+    },
+    {
+      "commit": "df17d1c698cdbfe1ef220059ff0790303024c195",
+      "author": "GitHub",
+      "committed date": 1586879154,
+      "key word": "git",
+      "end position in commit": 493
+    },
+    {
+      "commit": "10aaca8d2ad1db8d1c3c9144c49754b84e4732f3",
+      "author": "GitHub",
+      "committed date": 1586864681,
+      "key word": "git",
+      "end position in commit": 395
+    },
+    {
+      "commit": "baf41c7ccd242d2ff985f3bca58599b8bcd5ed41",
+      "author": "GitHub",
+      "committed date": 1586864577,
+      "key word": "test",
+      "end position in commit": 110
+    },
+    {
+      "commit": "8b51dfe4037254d5b3e3475f0dfd0f40b6b9d22d",
+      "author": "GitHub",
+      "committed date": 1586853402,
+      "key word": "test",
+      "end position in commit": 61
+    },
+    {
+      "commit": "5876b4bbddae9de6a81203a57a4ea0ae4e354adb",
+      "author": "Artem Payvin",
+      "committed date": 1586852767,
+      "key word": "test",
+      "end position in commit": 62
+    },
+    {
+      "commit": "1d46d90ae872599cc04b681fd6d09906adeabe0b",
+      "author": "Artem Payvin",
+      "committed date": 1586851925,
+      "key word": "test",
+      "end position in commit": 12
+    },
+    {
+      "commit": "dce41eee4c394cdd6753dc32d967c4d18ec404de",
+      "author": "GitHub",
+      "committed date": 1586790112,
+      "key word": "git",
+      "end position in commit": 344
+    },
+    {
+      "commit": "f6703bb8786f88d23d24f59bbce847cda6b2603e",
+      "author": "GitHub",
+      "committed date": 1586779238,
+      "key word": "git",
+      "end position in commit": 306
+    },
+    {
+      "commit": "9655bc89a01528c9c99f3b132d9c05c50818e612",
+      "author": "GitHub",
+      "committed date": 1586769980,
+      "key word": "git",
+      "end position in commit": 334
+    },
+    {
+      "commit": "29e2386e019d45d1b52b734271304d3476d7187d",
+      "author": "GitHub",
+      "committed date": 1586763344,
+      "key word": "git",
+      "end position in commit": 338
+    },
+    {
+      "commit": "d6f8ad4519ddf4fddab14b75c8fc626fee667ae8",
+      "author": "GitHub",
+      "committed date": 1586596077,
+      "key word": "git",
+      "end position in commit": 327
+    },
+    {
+      "commit": "3076d26bea911bf3c6ed746e23319ccc96f0ee65",
+      "author": "GitHub",
+      "committed date": 1586553236,
+      "key word": "git",
+      "end position in commit": 429
+    },
+    {
+      "commit": "ca27868813cb9f23c0ec7c4b75b71db9f5ff9e71",
+      "author": "GitHub",
+      "committed date": 1586530009,
+      "key word": "git",
+      "end position in commit": 315
+    },
+    {
+      "commit": "34fd66e108dd60ceed0590643938480b5f7fad0b",
+      "author": "GitHub",
+      "committed date": 1586523788,
+      "key word": "git",
+      "end position in commit": 385
+    },
+    {
+      "commit": "346bc133a9ab7ae984551478b27999b9a2da2845",
+      "author": "GitHub",
+      "committed date": 1586429115,
+      "key word": "git",
+      "end position in commit": 334
+    },
+    {
+      "commit": "ac806d04fe005d7fd0c8dc259b8cad5d83455d9d",
+      "author": "GitHub",
+      "committed date": 1586420249,
+      "key word": "git",
+      "end position in commit": 341
+    },
+    {
+      "commit": "f0ca600435450622e6be4c08466809f2c2ef584a",
+      "author": "GitHub",
+      "committed date": 1586414612,
+      "key word": "git",
+      "end position in commit": 429
+    },
+    {
+      "commit": "c3ed59d40de1c7ed57e756c57052622b082d28d1",
+      "author": "GitHub",
+      "committed date": 1586372476,
+      "key word": "git",
+      "end position in commit": 311
+    },
+    {
+      "commit": "b7bb9674780c8f1bdaf956b1c4fac35abf1b63af",
+      "author": "GitHub",
+      "committed date": 1586352627,
+      "key word": "git",
+      "end position in commit": 379
+    },
+    {
+      "commit": "c170aace5da8448fa53aa3a844ef294abbef326a",
+      "author": "GitHub",
+      "committed date": 1586344482,
+      "key word": "git",
+      "end position in commit": 357
+    },
+    {
+      "commit": "3b71b8fe752960f9575709dde1a93603a5db0599",
+      "author": "GitHub",
+      "committed date": 1586282264,
+      "key word": "git",
+      "end position in commit": 433
+    },
+    {
+      "commit": "e9cbf530d40b2e40dc8273c1723ff42ce2612623",
+      "author": "GitHub",
+      "committed date": 1586281359,
+      "key word": "test",
+      "end position in commit": 61
+    },
+    {
+      "commit": "576766c77ad529c6750513b5e2861ca9b06db706",
+      "author": "GitHub",
+      "committed date": 1586247031,
+      "key word": "test",
+      "end position in commit": 118
+    },
+    {
+      "commit": "c1962a3ee06e838194430d0dffbe4ba0a0102060",
+      "author": "GitHub",
+      "committed date": 1586195664,
+      "key word": "test",
+      "end position in commit": 65
+    },
+    {
+      "commit": "d895276538ad255dd98d6c9470ca5d764f109831",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1586191101,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "f1446bfc51201718c5f7c38cf970cddcecff09e2",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1586181200,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "0f5f28d67c4773732fcf586a3997fd5d016c2700",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1585922691,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "c798752d68b6fba6547363dbe0e7152131d6412d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1585909715,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "04aea22a915b67c46765f3d24866a9f41f5f8670",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1585813957,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "ca51d1f67411240f1778f7d52155e18207b68b3e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1585756021,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "994b7e5a65c3a8cf1ebef16e686006a3daec0976",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1585748811,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "264e7c6d7476c34f2907ab5fe6b6f905eb765b56",
+      "author": "Vadim Yavorsky",
+      "committed date": 1584638015,
+      "key word": "git",
+      "end position in commit": 104
+    },
+    {
+      "commit": "d923d73a2a85f1e680e85097b80149369845dd41",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584617648,
+      "key word": "test",
+      "end position in commit": 17
+    },
+    {
+      "commit": "acee096c870386a3be7791d0b65195b109d0b19c",
+      "author": "Artem Payvin",
+      "committed date": 1584613944,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "d015aa8c3e23664cd50f926580ac44b7c2e13f36",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584545899,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "a0393217eadc35df03619c8740021acc7fc7751e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584541293,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "da9e368d940c5bed651b1a4350fe79c5cf8bac29",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584538483,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "cc038ab204415c0bb5e86ff5fe9d1a03f58b3f22",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584535744,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "a00562c05110d67bb384a59400fb1c9e5bbd9deb",
+      "author": "Vadim Yavorsky",
+      "committed date": 1584445543,
+      "key word": "test",
+      "end position in commit": 19
+    },
+    {
+      "commit": "731c0d4e8244ad7615a22f66085e2718ef11306f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584435164,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "50c61d4e5a13d993fda8e2e0c01c15f435f9aede",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584378436,
+      "key word": "test",
+      "end position in commit": 53
+    },
+    {
+      "commit": "1f1bcc2583db5c487008134628813c6745cf7259",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584377461,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "46f329c44d45eba742845037fd799d1aab83f19f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584374935,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "429396d240093fe3b339b294174ac1c433bc4b19",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584373451,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "bc50270ee03332eb12dadb0be415805b0b666d15",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584373005,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "af8e2277e13e83f1b724a7197597e9f58a0bffcd",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1584372216,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "9e86b9c613e5efd3d3e0da68145073ff72fde2b9",
+      "author": "Vadim Yavorsky",
+      "committed date": 1584371794,
+      "key word": "git",
+      "end position in commit": 95
+    },
+    {
+      "commit": "0840037c195150ac375f394d5e2b81ff5c5056c2",
+      "author": "Artem Payvin",
+      "committed date": 1583863694,
+      "key word": "git",
+      "end position in commit": 111
+    },
+    {
+      "commit": "f3601f45eebfd4eae4679a0619602331e7f0d23d",
+      "author": "Artem Payvin",
+      "committed date": 1583863620,
+      "key word": "git",
+      "end position in commit": 111
+    },
+    {
+      "commit": "1572a256a90858c95a25861fcf229ca386e12893",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1583831641,
+      "key word": "test",
+      "end position in commit": 65
+    },
+    {
+      "commit": "03729f7ace8ea9158a7c26a78a44cb34b0cdc2de",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1583509776,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "6a6423cbecc111f4a7543fd2ac6c3d33e7d7317b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1583433896,
+      "key word": "git",
+      "end position in commit": 167
+    },
+    {
+      "commit": "e30c566454880d9284b8820de50d62e54cce2b93",
+      "author": "Vadim Yavorsky",
+      "committed date": 1583421581,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "6e1b478c13b2f57b909f999183904169d0869e2e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1583249726,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "230e5070a30478fb190b2d65bef7fc761b69c9be",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1583159832,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "51d1cdff5976b88dc3114515cb6833395625905b",
+      "author": "Artem Payvin",
+      "committed date": 1583158138,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "ac7c023f81be1284aef1a19c79cedced94fd6faf",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1583142098,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "7854b1119c37927344ab3c0038f7a798caae6070",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582895654,
+      "key word": "git",
+      "end position in commit": 106
+    },
+    {
+      "commit": "81cbdf057c5e6b0c8ce6a06818dccee8ea8cfbb5",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582831612,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "d41d1f642733fe61fb8def425625ec5c67c8d288",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582829113,
+      "key word": "git",
+      "end position in commit": 102
+    },
+    {
+      "commit": "7a287d77dcbdfd161ca329d5b10e24103b370693",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582826006,
+      "key word": "git",
+      "end position in commit": 111
+    },
+    {
+      "commit": "bd395a44a6235b932181d94c183ba0c6fbe39209",
+      "author": "Artem Payvin",
+      "committed date": 1582812931,
+      "key word": "test",
+      "end position in commit": 15
+    },
+    {
+      "commit": "69dd94c1f2ce6685d5d1ae5c975b3595921851c4",
+      "author": "Artem Payvin",
+      "committed date": 1582809231,
+      "key word": "git",
+      "end position in commit": 124
+    },
+    {
+      "commit": "799de80597a49eda41a15dd055041826e6fbd1f6",
+      "author": "Artem Payvin",
+      "committed date": 1582798038,
+      "key word": "git",
+      "end position in commit": 115
+    },
+    {
+      "commit": "44d2c1849fb89ddb654ca58e1c0305c30a6bbc8b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582751081,
+      "key word": "git",
+      "end position in commit": 90
+    },
+    {
+      "commit": "0b8d71c81a32656fc901751d759d0ee20ec2c092",
+      "author": "Artem Payvin",
+      "committed date": 1582732730,
+      "key word": "test",
+      "end position in commit": 12
+    },
+    {
+      "commit": "b5b7bc0ac8037432785ade3710f4771a169e246f",
+      "author": "Artem Payvin",
+      "committed date": 1582719871,
+      "key word": "git",
+      "end position in commit": 115
+    },
+    {
+      "commit": "167b8243fdec0ca2d31e8a081d4ecb3949f0b778",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582713757,
+      "key word": "git",
+      "end position in commit": 38
+    },
+    {
+      "commit": "e0a37df153bfa27b9447f4e78beb55e8e5ed1c91",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582702889,
+      "key word": "git",
+      "end position in commit": 27
+    },
+    {
+      "commit": "d39e3d19ffdffa8e734806884b32a7903a3e2f8f",
+      "author": "Artem Payvin",
+      "committed date": 1582637057,
+      "key word": "git",
+      "end position in commit": 152
+    },
+    {
+      "commit": "0e4f4a9ff30c68aa68a8b6dae27c43229692615e",
+      "author": "Artem Payvin",
+      "committed date": 1582637007,
+      "key word": "git",
+      "end position in commit": 115
+    },
+    {
+      "commit": "fe347994db76b1ea5c5d18d42ee2fcdc56a75565",
+      "author": "Artem Payvin",
+      "committed date": 1582636766,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "f99e57ce335ab3237d8524011bed41138105b754",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582627870,
+      "key word": "test",
+      "end position in commit": 66
+    },
+    {
+      "commit": "4b71a12147b39614dafe5e9a7dda1a8b62316103",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582626293,
+      "key word": "git",
+      "end position in commit": 102
+    },
+    {
+      "commit": "ff496b0087f785896844ac2888cf4e9cfc935ea4",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582562978,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "f041e4b5169247d1f85092acd02d03307d9620ba",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582546183,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "27b11513256dcbf8215f94c208ef2f5b93b5185f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582538359,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "0c80069ee6123b63faf8449afecf8fedf9d3a2ff",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582383816,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "8edd3636d28150bbd7897eb942fac3f94682f90c",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582298272,
+      "key word": "test",
+      "end position in commit": 54
+    },
+    {
+      "commit": "e7755be2b0df2547968321cf23cad372f87dc627",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582293978,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "d5e8767656e08bc70cbbfe8eb7d4c19e3438348e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582288648,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "bdd805ffe207ac3c6ddf56b153f87532d59d683e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582215669,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "278f933ffedad9f4fccdde495b9f2511ccfa2eb0",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1582212051,
+      "key word": "test",
+      "end position in commit": 67
+    },
+    {
+      "commit": "c932a84a6041f73c086b24e6718b2bff2e14258c",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582134623,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "92483cacd09e2fd5b547f611c2c17641d544e326",
+      "author": "Vadim Yavorsky",
+      "committed date": 1582046466,
+      "key word": "git",
+      "end position in commit": 135
+    },
+    {
+      "commit": "48015c1bc39ac37a717c56b9621d43e5d47b1cd6",
+      "author": "Artem Payvin",
+      "committed date": 1582034474,
+      "key word": "test",
+      "end position in commit": 18
+    },
+    {
+      "commit": "5a5a7c6f2953017e769190b74bb98a23172b83fd",
+      "author": "Vadim Yavorsky",
+      "committed date": 1581691465,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "1433b20c9aabf33b529e6e0dc023f71b8b27546e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1581624445,
+      "key word": "test",
+      "end position in commit": 66
+    },
+    {
+      "commit": "ba284d9e1a5136a8621aa40c5c86de5d298ae98b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1581618944,
+      "key word": "git",
+      "end position in commit": 129
+    },
+    {
+      "commit": "962a868d07343e3f2cf6008631603831a9abc4b9",
+      "author": "Vadim Yavorsky",
+      "committed date": 1581612195,
+      "key word": "git",
+      "end position in commit": 107
+    },
+    {
+      "commit": "da0374fcec4ba1a29ad54a40c36060620d1d21ef",
+      "author": "Vadim Yavorsky",
+      "committed date": 1581426103,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "f444d3c6574fd05256721b23719622aaca36fbdf",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1581413179,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "b94d42a2618593e9b6e59403599d3e338a64f1e3",
+      "author": "Vadim Yavorsky",
+      "committed date": 1581079980,
+      "key word": "git",
+      "end position in commit": 128
+    },
+    {
+      "commit": "11e80caeff977e5afe205542e23555848f1176a7",
+      "author": "Vadim Yavorsky",
+      "committed date": 1580917712,
+      "key word": "git",
+      "end position in commit": 107
+    },
+    {
+      "commit": "3f9e87347e912b990d615137e64045d0a1fb1424",
+      "author": "Artem Payvin",
+      "committed date": 1580915435,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "96359204338950316804151138ea18c0fb5d3db4",
+      "author": "Artem Payvin",
+      "committed date": 1580912195,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "76b2e92da76004899a97b364ef180f3a9c9fa9f0",
+      "author": "Artem Payvin",
+      "committed date": 1580911844,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "fcf7bf650a3f37ac9921453c26bf98bd1692289f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1580908342,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "16be4bcb05363ad77088e9981a911ba5c4c9e3f7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1580827542,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "27ab4c2c0a0a8e98cb7257e668d46112ef5a2d9f",
+      "author": "Vadim Yavorsky",
+      "committed date": 1580754782,
+      "key word": "git",
+      "end position in commit": 107
+    },
+    {
+      "commit": "6a8c47d6ed82c0e7ecca45a983a7bbb61ca7d926",
+      "author": "Artem Payvin",
+      "committed date": 1580734534,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "1ef374ba4909da2a2f147ad9e8f193fb8d9cfc97",
+      "author": "Vadim Yavorsky",
+      "committed date": 1580496600,
+      "key word": "test",
+      "end position in commit": 54
+    },
+    {
+      "commit": "a7d9590027893c2368b37cb5650e7f93664ea026",
+      "author": "Artem Payvin",
+      "committed date": 1580494649,
+      "key word": "git",
+      "end position in commit": 99
+    },
+    {
+      "commit": "adbe5028f3bd00357fc6b4dcdf246c547c0e538f",
+      "author": "Vadim Yavorsky",
+      "committed date": 1580494016,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "562137aa5fcbc44e39b77775da577fd21434a81e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1580493683,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "bea9dc8548032c5e99955b683944f7e580246ccd",
+      "author": "Vadim Yavorsky",
+      "committed date": 1580414802,
+      "key word": "test",
+      "end position in commit": 57
+    },
+    {
+      "commit": "fcd7748240c9fa0e3be6533f895624b49d7f271c",
+      "author": "Vadim Yavorsky",
+      "committed date": 1580405590,
+      "key word": "git",
+      "end position in commit": 107
+    },
+    {
+      "commit": "a38dadc8fd7c68d3c89811dcbd17aed63af7e533",
+      "author": "Vadim Yavorsky",
+      "committed date": 1579894006,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "f18fafe3b78457088b13caa4eba5a3d80407a434",
+      "author": "Vadim Yavorsky",
+      "committed date": 1579889652,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "25a7b7f93db61d3745c39b0fe218114d09ed2e14",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579878020,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "b1c03b164888026eafe92dc94b93199fb71a1eab",
+      "author": "GitHub",
+      "committed date": 1579870216,
+      "key word": "test",
+      "end position in commit": 91
+    },
+    {
+      "commit": "8bb327703c93bcd44be5a94c4855d30050aead7d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579862413,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "911ecc05cbe38499160fea11f284a95c27c7e903",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579861219,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "b69363c2d97b7903408979a4706d8d28c1265b07",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579858828,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "1d80fe71d732207c6e3f403038a1faf41c938367",
+      "author": "Chadwick Strange",
+      "committed date": 1579792218,
+      "key word": "git",
+      "end position in commit": 105
+    },
+    {
+      "commit": "c49e173cf83dc74ac3d78addf6161d4bd3d15ce5",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579790160,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "2a56cd04d19b93919df079813f5367a2b7266a62",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579783421,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "1eb5beb47da725703b9168f0be921497dde676f1",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579778448,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "3e1961b7275b107108905bf9e9e44de3be8e99dc",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579778307,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "5f05da0053d9dbbc82a5a340160e86fbe68a4281",
+      "author": "Artem Payvin",
+      "committed date": 1579706067,
+      "key word": "git",
+      "end position in commit": 123
+    },
+    {
+      "commit": "2f4196e3d7a3c80bc70caa416aebe012dd818aaa",
+      "author": "Artem Payvin",
+      "committed date": 1579623570,
+      "key word": "git",
+      "end position in commit": 126
+    },
+    {
+      "commit": "3a2f88db4cc4f7f392c0617b237595b3054e0e30",
+      "author": "Artem Payvin",
+      "committed date": 1579610295,
+      "key word": "git",
+      "end position in commit": 131
+    },
+    {
+      "commit": "8acbca8058ab03a745d591f292900d6dcb42fbd7",
+      "author": "Artem Payvin",
+      "committed date": 1579605570,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "58a0a1d51fad28204712f59a43c79d7857646a7a",
+      "author": "Artem Payvin",
+      "committed date": 1579556798,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "22b8d7e7ec8026ee619b93d2ab7b468e6cb69955",
+      "author": "Vadim Yavorsky",
+      "committed date": 1579552226,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "2b81dd35819e099b4d1263e920c2cee79d2f5102",
+      "author": "Vadim Yavorsky",
+      "committed date": 1579550734,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "1683145290a10008ca566b4ab3b827bff2ae37af",
+      "author": "Artem Payvin",
+      "committed date": 1579550484,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "cd8ad292cec90458502111d4549aad95fa5dec41",
+      "author": "Vadim Yavorsky",
+      "committed date": 1579550443,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "2a92565efb79a513f55c2f681c4887d555bcf178",
+      "author": "Vadim Yavorsky",
+      "committed date": 1579547513,
+      "key word": "test",
+      "end position in commit": 70
+    },
+    {
+      "commit": "e83e688fe9475d1429728ed154ce2943f45ddbd4",
+      "author": "Artem Payvin",
+      "committed date": 1579546877,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "a4dce0e2c898e80c59d67b317d4935d7d5474b22",
+      "author": "Artem Payvin",
+      "committed date": 1579545958,
+      "key word": "test",
+      "end position in commit": 46
+    },
+    {
+      "commit": "e4561df2f113f3f312409a1f15312ea491356180",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579529454,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "f01b3a8eef10fb68c9f7c8ee9befcfa8684a627a",
+      "author": "Artem Payvin",
+      "committed date": 1579526399,
+      "key word": "test",
+      "end position in commit": 18
+    },
+    {
+      "commit": "4de4b2ae16a02720b019a477c0b267c8529867ae",
+      "author": "Artem Payvin",
+      "committed date": 1579525556,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "022eb6deadeafbb5d53ab66d4ee8eb662459feb9",
+      "author": "Artem Payvin",
+      "committed date": 1579524650,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "f9c38772ea3dee7034c901e7f982c8dd08a32bb6",
+      "author": "Artem Payvin",
+      "committed date": 1579524467,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "f67ca0affe0951bcd7504e13ac546d3fb547671a",
+      "author": "Artem Payvin",
+      "committed date": 1579523348,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "10964445e48911fb6fc7a0b382e2736933d1048b",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579516778,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "6c7c4936b2ec3d82e3e7ce202942e0b9d4e3ece8",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579281823,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "33e661e7ed6434541e453eb0210d2021bea0f3d0",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579277551,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "0ea60d2360c00cb157d7d97202878cda817c94e2",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579260292,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "626ce6a7f2030382671f2a805a9fede37924c9a9",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579188690,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "4113fc5b86c168a8b0efd95e72ad7a1f950ec497",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579015509,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "6368c9aa7e0761cb7a13437b578f1d656653e995",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1579010462,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "5d082e41db05889daaf012359c20295bef07a03e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1578928823,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "0f003cfdc6e869966be1cde6f48ee307c9a8d680",
+      "author": "Vadim Yavorsky",
+      "committed date": 1578928603,
+      "key word": "git",
+      "end position in commit": 114
+    },
+    {
+      "commit": "9b42e9d2a38b6a20396265b753056a1767cc0886",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1578920223,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "05ae02dca4ae237d29bc2e0f8e7c5b2fe8d615ce",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1578657532,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "f7ad73e8442f3c3f430465cedd36a9bf5ff98cbc",
+      "author": "Vadim Yavorsky",
+      "committed date": 1578657234,
+      "key word": "test",
+      "end position in commit": 60
+    },
+    {
+      "commit": "453fe3284cc433e4e35cf09d8f1db31d0e8b7c2a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1578654357,
+      "key word": "test",
+      "end position in commit": 45
+    },
+    {
+      "commit": "f289c80a5d89a697a7b6459061e2d96047c2f445",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1578654020,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "d1710baaa19c2efe0168fbadd9dc6fd0dbc974ed",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1578068741,
+      "key word": "test",
+      "end position in commit": 43
+    },
+    {
+      "commit": "c2740c2152502086d723358575c49292945c328e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1577978567,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "1ad9835776b957c977c2e95ccda3d90e7bb210a0",
+      "author": "Vadim Yavorsky",
+      "committed date": 1577478203,
+      "key word": "test",
+      "end position in commit": 47
+    },
+    {
+      "commit": "1abf83c3d0ea05a57a1620e47ab2f60dda15722b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1576857847,
+      "key word": "test",
+      "end position in commit": 52
+    },
+    {
+      "commit": "35a1f9008aee3e35d450f7ed484e4d1fec7755e1",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576769981,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "219f277e5f74b3faf45b027256ef7a2b892f2eb6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576760210,
+      "key word": "test",
+      "end position in commit": 55
+    },
+    {
+      "commit": "e4b32477f6b3c8eb5f5c4aa2c0a756dd95268e70",
+      "author": "Vadim Yavorsky",
+      "committed date": 1576607760,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "2859f24a05ee5678071cf07f8e9f1d0f0c5d25b6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576582643,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "5eb45d651cd0002a34c75209d1a06d9b3b288725",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576579162,
+      "key word": "test",
+      "end position in commit": 45
+    },
+    {
+      "commit": "1f23ef12020d03b92ff3db20a14a10417039c14f",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576576343,
+      "key word": "test",
+      "end position in commit": 51
+    },
+    {
+      "commit": "76c6a2691c38686bfb18f6490f07d61febd59ffd",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576510425,
+      "key word": "test",
+      "end position in commit": 73
+    },
+    {
+      "commit": "75ef414327fb4b394c175dfd689f86a52de1ce28",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576503595,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "689492cc6b1947901dbee633e69805bfdff5b0dd",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576493811,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "e35b967e29f0f71e902e4c26cb7f03fcf13090be",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576492323,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "84c741dd53ff42056d758d64a5f6be66b5ff6882",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576155717,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "8b7b5cb2bb297a6efa04f79e7c917d76072317a4",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576069587,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "ec5727f2f99a4cb7444a9828911816b19907fcba",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1576055559,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "5e52c74aafe87942ef987f439af207f7aab8ef12",
+      "author": "Artem Payvin",
+      "committed date": 1576002198,
+      "key word": "git",
+      "end position in commit": 141
+    },
+    {
+      "commit": "a1b74ff9d8c2bc45dd899fed6f9a2e54391770f3",
+      "author": "Vadim Yavorsky",
+      "committed date": 1575381506,
+      "key word": "git",
+      "end position in commit": 119
+    },
+    {
+      "commit": "00df4411b80af209e5fc1174103764fd2fc0f365",
+      "author": "Vadim Yavorsky",
+      "committed date": 1575295569,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "fd3a563e009b5ddf95693da7db5b37da49bb1db6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1575293082,
+      "key word": "git",
+      "end position in commit": 25
+    },
+    {
+      "commit": "4fcc9c6a5585f2344b7647505d9958f79e432a45",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1575286712,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "3a93dbf2bc4b2679f4b18383082fe9629f64fb86",
+      "author": "Artem Payvin",
+      "committed date": 1575050119,
+      "key word": "test",
+      "end position in commit": 20
+    },
+    {
+      "commit": "f17a0f60f156c1e7c4bb3fe5fbaa3652a13d395e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1575028345,
+      "key word": "git",
+      "end position in commit": 118
+    },
+    {
+      "commit": "2dce2609592a07fcef767cd0fda2c79627561cc7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1574858663,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "1674aa7a5c5f7dd9bbcbfa883c96d8094a807345",
+      "author": "Vadim Yavorsky",
+      "committed date": 1574767314,
+      "key word": "git",
+      "end position in commit": 136
+    },
+    {
+      "commit": "fa821bb83549b4cb7944495635dac214b5681765",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1574767297,
+      "key word": "test",
+      "end position in commit": 53
+    },
+    {
+      "commit": "07a565ca701ecd080a40a8dff050a03c4583fc35",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1574261004,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "8c8bcca1c99f5cf014f125a5b69ab0322ac8e526",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1574096663,
+      "key word": "test",
+      "end position in commit": 38
+    },
+    {
+      "commit": "75c081636a1d66eca93ca6e4e2f7ac6e22486b94",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1573902495,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "3f5acbe3457626a164d71a5fcf2db1254bb93084",
+      "author": "Artem Payvin",
+      "committed date": 1573826659,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "5ab044d3b50dc4ffdca37741c24afb383418df03",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1573660421,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "89d86ce992e55ab3db4cd3517aaf4ba9926e86ec",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1573650447,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "82b7561c10a7829e79575e3f742190a33809ebf8",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1573578071,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "4e04ce1990ee8f242cd2622714483cbf55ac3fb1",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1573555692,
+      "key word": "git",
+      "end position in commit": 121
+    },
+    {
+      "commit": "e07c6fdee484eb071f74898a97d3568549a90037",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1573555672,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "9d78f412b3bdb497c56f1685e8d75be3bb19e06c",
+      "author": "Artem Payvin",
+      "committed date": 1571764390,
+      "key word": "git",
+      "end position in commit": 129
+    },
+    {
+      "commit": "f21327b69d260ee752e13f9c324bd7e96c7dd474",
+      "author": "Artem Payvin",
+      "committed date": 1571744421,
+      "key word": "test",
+      "end position in commit": 28
+    },
+    {
+      "commit": "075af258c2cbac4b36b1c1cddef8ca7a0401d68c",
+      "author": "Artem Payvin",
+      "committed date": 1571741984,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "08e33a2ee882fd1fa857833180d946d7fcb81746",
+      "author": "Artem Payvin",
+      "committed date": 1571680126,
+      "key word": "test",
+      "end position in commit": 66
+    },
+    {
+      "commit": "83962bc8e0aa2571e3530b2855d830951cce41cd",
+      "author": "Vadim Yavorsky",
+      "committed date": 1571401533,
+      "key word": "test",
+      "end position in commit": 22
+    },
+    {
+      "commit": "cbc4b7dcae8483cfa47736d353e911bd38a49387",
+      "author": "Artem Payvin",
+      "committed date": 1571256260,
+      "key word": "test",
+      "end position in commit": 60
+    },
+    {
+      "commit": "d9f17502a028a5b66fc201c63bfbc9fdb3d19100",
+      "author": "GitHub",
+      "committed date": 1570830818,
+      "key word": "test",
+      "end position in commit": 145
+    },
+    {
+      "commit": "cd5ce013cb452049cc7e50235b7c8e39ad295f42",
+      "author": "GitHub",
+      "committed date": 1570823833,
+      "key word": "test",
+      "end position in commit": 79
+    },
+    {
+      "commit": "137660526c38934ecaf47931764260e44d8682ea",
+      "author": "Artem Payvin",
+      "committed date": 1570817456,
+      "key word": "test",
+      "end position in commit": 11
+    },
+    {
+      "commit": "8e3a2986a8a67284f888ac2e1fd5716d2231a9a2",
+      "author": "Vadim Yavorsky",
+      "committed date": 1570816945,
+      "key word": "test",
+      "end position in commit": 53
+    },
+    {
+      "commit": "64a07d087b19d0ccf4ce214196de068b15ead61d",
+      "author": "Vadim Yavorsky",
+      "committed date": 1570815458,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "3f0586bb68c4aeedf42728cd5b5f60c73c8f47b5",
+      "author": "Artem Payvin",
+      "committed date": 1570814431,
+      "key word": "test",
+      "end position in commit": 12
+    },
+    {
+      "commit": "76996e42133383fa649ed1df5bd3c846b6b3c86c",
+      "author": "Artem Payvin",
+      "committed date": 1570811699,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "707dd7bb6670d7608a6cca8ea204d9282928877e",
+      "author": "Vadim Yavorsky",
+      "committed date": 1570799613,
+      "key word": "git",
+      "end position in commit": 93
+    },
+    {
+      "commit": "dd4e8fab2a93bc8e79ce57d59fd52859fe8e7f0d",
+      "author": "Artem Payvin",
+      "committed date": 1570792939,
+      "key word": "git",
+      "end position in commit": 125
+    },
+    {
+      "commit": "54cab81e6e15f02b4f04278f21af4d39e94cf002",
+      "author": "Artem Payvin",
+      "committed date": 1570792901,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "b83291aeb62869b5c0ac8c7322a8ae4a0a2925d7",
+      "author": "Artem Payvin",
+      "committed date": 1570666081,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "138673e9f2607e8b1ffa740685c7ff4a93970808",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1570613522,
+      "key word": "git",
+      "end position in commit": 40
+    },
+    {
+      "commit": "4a936c09f6e662d561d7ba7d463096898d441eb2",
+      "author": "Vadim Yavorsky",
+      "committed date": 1570460175,
+      "key word": "git",
+      "end position in commit": 47
+    },
+    {
+      "commit": "ea2e729825a4b2349cb01bb47afe6e528cdb8cbd",
+      "author": "Artem Payvin",
+      "committed date": 1570046969,
+      "key word": "test",
+      "end position in commit": 65
+    },
+    {
+      "commit": "36f9e18095742298027fb6cddd0ce7388844af73",
+      "author": "Artem Payvin",
+      "committed date": 1570043030,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "a03d714ab2ce9879729dcd57adb0df181ef046ba",
+      "author": "Artem Payvin",
+      "committed date": 1569707932,
+      "key word": "test",
+      "end position in commit": 76
+    },
+    {
+      "commit": "b6f39c0eda5a6701f8894ccf85034ba154d2031b",
+      "author": "Vadim Yavorsky",
+      "committed date": 1569688493,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "ed41c75cb353865e09c4177e173d8e4437271eeb",
+      "author": "Vadim Yavorsky",
+      "committed date": 1569678951,
+      "key word": "git",
+      "end position in commit": 96
+    },
+    {
+      "commit": "8501f59f38a2b1772c3055aa03bd314ad751d356",
+      "author": "Artem Payvin",
+      "committed date": 1569616862,
+      "key word": "test",
+      "end position in commit": 16
+    },
+    {
+      "commit": "8dc2ead52fb980aec9fa277aeec609e99e7c9ff9",
+      "author": "Vadim Yavorsky",
+      "committed date": 1569494532,
+      "key word": "test",
+      "end position in commit": 59
+    },
+    {
+      "commit": "d6175bf4f12cc64d173daac18d4f94860c2a1c55",
+      "author": "Artem Payvin",
+      "committed date": 1569432581,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "cde9c434414c322bfbd5aada92699a65629dd33f",
+      "author": "Artem Payvin",
+      "committed date": 1569429377,
+      "key word": "test",
+      "end position in commit": 97
+    },
+    {
+      "commit": "5112ec45b74597fb6580d49a014a3c87c91de8a2",
+      "author": "Artem Payvin",
+      "committed date": 1569346560,
+      "key word": "test",
+      "end position in commit": 31
+    },
+    {
+      "commit": "59076a06306d020a363aa11953de01f1d4444c59",
+      "author": "Artem Payvin",
+      "committed date": 1569324278,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "6a7aff2644bba1861d05aa67d87d7be19dd70f45",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1569323340,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "b3d5aac374cb26a31d0195dfac6022d1f9df8499",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1569322692,
+      "key word": "git",
+      "end position in commit": 147
+    },
+    {
+      "commit": "ad6dc9fd185cc5d3c2fc822e86811e36b7c969d5",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1569322477,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "06c47847b0a2c676e83f37f14038533613bce906",
+      "author": "Artem Payvin",
+      "committed date": 1569280159,
+      "key word": "test",
+      "end position in commit": 101
+    },
+    {
+      "commit": "2b4890ff64259520924a09ae30f986e4805c680c",
+      "author": "Artem Payvin",
+      "committed date": 1569259821,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "0eabdb0341aca3c1b9373e4d38f12960760b2c1e",
+      "author": "Artem Payvin",
+      "committed date": 1569258585,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "9a4a2b15f1cbab5d43abd457634dd82e7ea517f6",
+      "author": "Artem Payvin",
+      "committed date": 1569257791,
+      "key word": "test",
+      "end position in commit": 16
+    },
+    {
+      "commit": "a1964214d5dfa7bea5e4a512662c3834263180b4",
+      "author": "Artem Payvin",
+      "committed date": 1569248001,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "59f4ffaa49e7fb35f7cf706eb03ccc9e1550c529",
+      "author": "Oleh Nikolaiev",
+      "committed date": 1569243347,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "e6ce904865dbaadb3b5b5a98518235e3bd8dbb40",
+      "author": "Artem Payvin",
+      "committed date": 1569242865,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "26cd07c7de579b17db808b9e24a1a6f0f94a94aa",
+      "author": "Artem Payvin",
+      "committed date": 1569180808,
+      "key word": "test",
+      "end position in commit": 17
+    },
+    {
+      "commit": "866335342d96becfbebc7e735cc623c6f834e1e3",
+      "author": "Artem Payvin",
+      "committed date": 1569167504,
+      "key word": "test",
+      "end position in commit": 22
+    },
+    {
+      "commit": "a2cb3bb1e49752c88ef3892e959f6d09a1eeff9d",
+      "author": "Artem Payvin",
+      "committed date": 1569165876,
+      "key word": "test",
+      "end position in commit": 42
+    },
+    {
+      "commit": "0fced4ff142c2db8ece3130a89730d5e8d4f001a",
+      "author": "Artem Payvin",
+      "committed date": 1569162213,
+      "key word": "test",
+      "end position in commit": 12
+    },
+    {
+      "commit": "1ce566ac55901681f0aa25faf0555dc18460f12a",
+      "author": "Artem Payvin",
+      "committed date": 1569076308,
+      "key word": "test",
+      "end position in commit": 33
+    },
+    {
+      "commit": "34b95876dc1287bf9923b218e017fbcd12fcdb01",
+      "author": "Vadim Yavorsky",
+      "committed date": 1568729738,
+      "key word": "test",
+      "end position in commit": 107
+    },
+    {
+      "commit": "1332ff32213b5074630f16bfd34dcc618912770a",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1568380758,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "8fa9f221774fcf3a8ac8e8d3583743bb0083feaf",
+      "author": "Vadim Yavorsky",
+      "committed date": 1567778862,
+      "key word": "test",
+      "end position in commit": 25
+    },
+    {
+      "commit": "52bb7548141c965dac204a62367cbaff7b4f6aed",
+      "author": "Vadim Yavorsky",
+      "committed date": 1567776537,
+      "key word": "test",
+      "end position in commit": 67
+    },
+    {
+      "commit": "cefa8561466f69ccb1d9541a9af2bd6413882445",
+      "author": "Vadim Yavorsky",
+      "committed date": 1567694111,
+      "key word": "test",
+      "end position in commit": 52
+    },
+    {
+      "commit": "d795deaaf115338702d30f22a64fce79b02f0106",
+      "author": "Vadim Yavorsky",
+      "committed date": 1567679151,
+      "key word": "test",
+      "end position in commit": 63
+    },
+    {
+      "commit": "2b026c70b1772a8c8e38c347b5a99c21e738433b",
+      "author": "Artem Payvin",
+      "committed date": 1567518024,
+      "key word": "test",
+      "end position in commit": 11
+    },
+    {
+      "commit": "49432f8af24f48e917cecbfa184c067eb0f6f645",
+      "author": "Artem Payvin",
+      "committed date": 1567514729,
+      "key word": "git",
+      "end position in commit": 133
+    },
+    {
+      "commit": "27d74b030c8a56d9e1e3b69a23108da59ad3406f",
+      "author": "Artem Payvin",
+      "committed date": 1567514694,
+      "key word": "test",
+      "end position in commit": 17
+    },
+    {
+      "commit": "6a1d3b975477a1f31e33f032c94df21673661f2c",
+      "author": "Artem Payvin",
+      "committed date": 1567431031,
+      "key word": "test",
+      "end position in commit": 11
+    },
+    {
+      "commit": "e3501cac479b626af23625d541164ab9f17e6558",
+      "author": "Artem Payvin",
+      "committed date": 1567421929,
+      "key word": "test",
+      "end position in commit": 11
+    },
+    {
+      "commit": "fbd8fe773a91d1ade02844c2aba305bb72e0da4d",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1567089378,
+      "key word": "test",
+      "end position in commit": 40
+    },
+    {
+      "commit": "a5b377157f83708649e9f5103ecc0bb32da5b754",
+      "author": "Vadim Yavorsky",
+      "committed date": 1566923432,
+      "key word": "git",
+      "end position in commit": 96
+    },
+    {
+      "commit": "6240929184bb949d573f131c2e61f26a8d1c9118",
+      "author": "Vadim Yavorsky",
+      "committed date": 1566920604,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "a87837cf57de819bcec8a0788fa65764d2c36342",
+      "author": "Vadim Yavorsky",
+      "committed date": 1566497360,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "68212face0b9f79db6872ec253716ac05f751fcc",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1566474760,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "829962e12063d638e059375227c09d5599860384",
+      "author": "Vadim Yavorsky",
+      "committed date": 1565965277,
+      "key word": "test",
+      "end position in commit": 23
+    },
+    {
+      "commit": "76bde2596e33c77685f7330ca4817a024adae278",
+      "author": "Artem Payvin",
+      "committed date": 1565697755,
+      "key word": "test",
+      "end position in commit": 29
+    },
+    {
+      "commit": "86d8f688aaa6149a0db2265e60c4f48eb6eb6a14",
+      "author": "Artem Payvin",
+      "committed date": 1564573065,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "b76aebc2b7da986f0217253608d082d624cfaa8f",
+      "author": "Artem Payvin",
+      "committed date": 1564568597,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "aab35ffa0748a18fcaaeec3e4f9a60ed97d2cb8d",
+      "author": "Artem Payvin",
+      "committed date": 1564564844,
+      "key word": "test",
+      "end position in commit": 24
+    },
+    {
+      "commit": "475377ec74179228d025d8b31374b84494b7f974",
+      "author": "Artem Payvin",
+      "committed date": 1564497978,
+      "key word": "git",
+      "end position in commit": 110
+    },
+    {
+      "commit": "0f6688db0f2e699ec6b3ed3ee5bd2a8848722a5d",
+      "author": "Artem Payvin",
+      "committed date": 1564497888,
+      "key word": "git",
+      "end position in commit": 119
+    },
+    {
+      "commit": "7387c9ca43d6a1d7bc4fcd78a935424110b5ad62",
+      "author": "Artem Payvin",
+      "committed date": 1564497710,
+      "key word": "test",
+      "end position in commit": 15
+    },
+    {
+      "commit": "96f96d0079f2655470161a1dca8ca899cefbd189",
+      "author": "Artem Payvin",
+      "committed date": 1564497128,
+      "key word": "git",
+      "end position in commit": 101
+    },
+    {
+      "commit": "41acca245b56721803d8ec60eaa778b0af9f6e5d",
+      "author": "Artem Payvin",
+      "committed date": 1564497064,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "ec9ba4f8ca3c859e4a8f264fa2cb80c25eeeef16",
+      "author": "GitHub",
+      "committed date": 1564257006,
+      "key word": "test",
+      "end position in commit": 93
+    },
+    {
+      "commit": "eb26ff114acd0c36ff5f12170f1f6c29f81b904e",
+      "author": "Artem Payvin",
+      "committed date": 1564254748,
+      "key word": "test",
+      "end position in commit": 21
+    },
+    {
+      "commit": "9f0c80f404bca3733234d0d94de1aa94310d2d95",
+      "author": "Artem Payvin",
+      "committed date": 1564252858,
+      "key word": "test",
+      "end position in commit": 61
+    },
+    {
+      "commit": "8ff6b263408cf361fca21ccfdd08d045932a90c0",
+      "author": "Artem Payvin",
+      "committed date": 1564252201,
+      "key word": "test",
+      "end position in commit": 47
+    },
+    {
+      "commit": "2a2fcf8c1a53065e8dbf36489e2e25d4322573eb",
+      "author": "Artem Payvin",
+      "committed date": 1564248909,
+      "key word": "test",
+      "end position in commit": 30
+    },
+    {
+      "commit": "fb6e95f7261a5ffbcdaa31b73444a9fa9095f747",
+      "author": "Artem Payvin",
+      "committed date": 1564242958,
+      "key word": "test",
+      "end position in commit": 17
+    },
+    {
+      "commit": "a54b63615a1c3cd1aedb804d36d2558b8dce779a",
+      "author": "Artem Payvin",
+      "committed date": 1564240858,
+      "key word": "test",
+      "end position in commit": 36
+    },
+    {
+      "commit": "195659c5dc16a84a0a000fe8552f36239bcc12a3",
+      "author": "Artem Payvin",
+      "committed date": 1564226795,
+      "key word": "test",
+      "end position in commit": 26
+    },
+    {
+      "commit": "82224480a81711ee65809a0f3463584c665337c2",
+      "author": "Artem Payvin",
+      "committed date": 1564144238,
+      "key word": "git",
+      "end position in commit": 101
+    },
+    {
+      "commit": "f2223b95f92f8fd09d025e7c271a566a9c67f2df",
+      "author": "Artem Payvin",
+      "committed date": 1564135942,
+      "key word": "git",
+      "end position in commit": 101
+    },
+    {
+      "commit": "889f9c882dfac2721545e65d4fdce21e238e778c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1563978950,
+      "key word": "git",
+      "end position in commit": 60
+    },
+    {
+      "commit": "ef98d9a71377db87e8e3e4d3dc21b088a3522f1c",
+      "author": "GitHub",
+      "committed date": 1563791022,
+      "key word": "test",
+      "end position in commit": 109
+    },
+    {
+      "commit": "0ab70d9a2da849ad0d3accb8c98fdcda25ec0eec",
+      "author": "NataliyaSkaleLabs",
+      "committed date": 1563552309,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "f3f8cf9f15c265cfec3730086343eca8ad7be047",
+      "author": "GitHub",
+      "committed date": 1563292378,
+      "key word": "test",
+      "end position in commit": 123
+    },
+    {
+      "commit": "f8a0da05eb7e05e27f8ced48d25c62368fdd50d5",
+      "author": "NataliyaSkaleLabs",
+      "committed date": 1563289201,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "a1dea59364b4b68bf54170ac426d3cf9ed442c76",
+      "author": "NataliyaSkaleLabs",
+      "committed date": 1563287666,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "4c8f4b9a6021b61d24837442421f8b7edbb23d22",
+      "author": "Artem Payvin",
+      "committed date": 1563092901,
+      "key word": "git",
+      "end position in commit": 101
+    },
+    {
+      "commit": "b143c6e95d2cd4fe3c6aa32090b3c09115392a0b",
+      "author": "GitHub",
+      "committed date": 1562956252,
+      "key word": "test",
+      "end position in commit": 119
+    },
+    {
+      "commit": "dc0cba047220c954826affc809827ae9c21d5241",
+      "author": "GitHub",
+      "committed date": 1562954038,
+      "key word": "test",
+      "end position in commit": 39
+    },
+    {
+      "commit": "3dc64f6669f39040951a2561bba45dad918208f0",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562946393,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "a6d0a95461df3af9514b678081d11a5ec405a3da",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562944508,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "a0605f0f7ad4e3c57c615d30f6b81d7f9f6eae1c",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562943174,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "9424abfd25de783841b5acf12d3c2163a1feb8a1",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562940256,
+      "key word": "test",
+      "end position in commit": 32
+    },
+    {
+      "commit": "578d7d87aa0510f58c81b727677b0803af143c34",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562939467,
+      "key word": "test",
+      "end position in commit": 58
+    },
+    {
+      "commit": "7fb55c5a79b09195848c2d0608f21854e5140b57",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562938029,
+      "key word": "test",
+      "end position in commit": 58
+    },
+    {
+      "commit": "6e06f8b4e9cf2c621f296e90bed02cc7179e73f1",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562935859,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "50b4b6e58d05565e583fc63dd2adf531dc32e1ab",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562935857,
+      "key word": "test",
+      "end position in commit": 52
+    },
+    {
+      "commit": "12238c97f2b7ae656f5fa8ff75db6090a14fd151",
+      "author": "GitHub",
+      "committed date": 1562935557,
+      "key word": "test",
+      "end position in commit": 166
+    },
+    {
+      "commit": "760c338092c8479b4da4a0657319f64ae060eb02",
+      "author": "elvisgiv",
+      "committed date": 1562932596,
+      "key word": "git",
+      "end position in commit": 185
+    },
+    {
+      "commit": "760c338092c8479b4da4a0657319f64ae060eb02",
+      "author": "elvisgiv",
+      "committed date": 1562932596,
+      "key word": "test",
+      "end position in commit": 185
+    },
+    {
+      "commit": "0ecccafaa338da20b3ec76998fe3f4bb95dce600",
+      "author": "GitHub",
+      "committed date": 1562928307,
+      "key word": "test",
+      "end position in commit": 89
+    },
+    {
+      "commit": "214cb9da5fb6fbd4a3c8ca22521d204aa8e09b05",
+      "author": "elvisgiv",
+      "committed date": 1562927392,
+      "key word": "test",
+      "end position in commit": 58
+    },
+    {
+      "commit": "5c430ef0b9bf3dbdebf76184a87ca1acd410ef32",
+      "author": "elvisgiv",
+      "committed date": 1562925575,
+      "key word": "test",
+      "end position in commit": 58
+    },
+    {
+      "commit": "6ad96287c66d8ab11bd5b309e5ed7a51ed441b20",
+      "author": "elvisgiv",
+      "committed date": 1562924295,
+      "key word": "test",
+      "end position in commit": 58
+    },
+    {
+      "commit": "965b93f3d2cc791afdb3a98bb9c5a231b92e2286",
+      "author": "elvisgiv",
+      "committed date": 1562858111,
+      "key word": "test",
+      "end position in commit": 58
+    },
+    {
+      "commit": "f06cf0af1353577db793db126509e07a883d0e87",
+      "author": "GitHub",
+      "committed date": 1562833627,
+      "key word": "test",
+      "end position in commit": 115
+    },
+    {
+      "commit": "782800e455d2c2ca97d0402410ff929cbc93d6c7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562831822,
+      "key word": "test",
+      "end position in commit": 58
+    },
+    {
+      "commit": "12311a2b7ab3854cc9f890c6fe991d8ba33e3aba",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562775305,
+      "key word": "test",
+      "end position in commit": 56
+    },
+    {
+      "commit": "58b2c304c1d5d3a82d799f353ae02302966c38f6",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562760282,
+      "key word": "test",
+      "end position in commit": 59
+    },
+    {
+      "commit": "b89a475fcc37d50d46711e8398e68be042a31878",
+      "author": "GitHub",
+      "committed date": 1562751367,
+      "key word": "test",
+      "end position in commit": 140
+    },
+    {
+      "commit": "0d6bd6111cf27920c666122a14aa46486423776c",
+      "author": "GitHub",
+      "committed date": 1562746197,
+      "key word": "test",
+      "end position in commit": 128
+    },
+    {
+      "commit": "7d7f395fe0eef5a441f7636a578499129c5b8741",
+      "author": "elvisgiv",
+      "committed date": 1562746125,
+      "key word": "test",
+      "end position in commit": 49
+    },
+    {
+      "commit": "ace30d0cdc767f5d6a47c62e282eb12e693396cf",
+      "author": "GitHub",
+      "committed date": 1562688922,
+      "key word": "test",
+      "end position in commit": 70
+    },
+    {
+      "commit": "756e0750ecc868e1ef1d23d6602c113ebca2fe22",
+      "author": "GitHub",
+      "committed date": 1562688827,
+      "key word": "test",
+      "end position in commit": 55
+    },
+    {
+      "commit": "425c76a00144594fd39727cd0ee9e2c6ff6b7240",
+      "author": "GitHub",
+      "committed date": 1562688535,
+      "key word": "test",
+      "end position in commit": 111
+    },
+    {
+      "commit": "1a1288ef3cfaada4205adcccd2c2ae0a7f40d718",
+      "author": "elvisgiv",
+      "committed date": 1562683858,
+      "key word": "test",
+      "end position in commit": 53
+    },
+    {
+      "commit": "e9bdadad03e0e0dbbe35eb09e9f8ded46f63bffb",
+      "author": "elvisgiv",
+      "committed date": 1562683430,
+      "key word": "test",
+      "end position in commit": 53
+    },
+    {
+      "commit": "0669ee687cfa0a2dd9a665a40d9d0ef2e942ff1e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562667770,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "43a2f9be168c91eb9b1ab63dc8a13212cc545787",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562598418,
+      "key word": "test",
+      "end position in commit": 50
+    },
+    {
+      "commit": "2580728d52afe1cf5216b094272eaa868f36b220",
+      "author": "GitHub",
+      "committed date": 1562313056,
+      "key word": "test",
+      "end position in commit": 88
+    },
+    {
+      "commit": "bb16ea1b260acef9ded9e03eee1a3ce38082c5b1",
+      "author": "GitHub",
+      "committed date": 1562235756,
+      "key word": "test",
+      "end position in commit": 88
+    },
+    {
+      "commit": "aac28fbaff9a29e4c4c0406043a95e53cc98877e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562160865,
+      "key word": "test",
+      "end position in commit": 52
+    },
+    {
+      "commit": "5395ea18ed2f7d89c33586d6702bfef8279b1a9e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562160780,
+      "key word": "test",
+      "end position in commit": 69
+    },
+    {
+      "commit": "5d5072d9b343262a82c1e44d366d7bd293500467",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562149170,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "aa4f4fdd25df8a01661eda584819835dcaff217e",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1562086800,
+      "key word": "test",
+      "end position in commit": 41
+    },
+    {
+      "commit": "51a45c7570b1cda26dd95ad2ba0443deb0a51729",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1561980010,
+      "key word": "test",
+      "end position in commit": 48
+    },
+    {
+      "commit": "64725f2eb6a9b4843bcf1d70ef76a7ce9f9b030d",
+      "author": "GitHub",
+      "committed date": 1561135670,
+      "key word": "test",
+      "end position in commit": 148
+    },
+    {
+      "commit": "0c48fd59186ac064be780508892b55216d121392",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1561127567,
+      "key word": "test",
+      "end position in commit": 44
+    },
+    {
+      "commit": "4b0dc7e6b789cc2b37dab84c5c4bb8e9479df2ca",
+      "author": "Artem Payvin",
+      "committed date": 1561046467,
+      "key word": "test",
+      "end position in commit": 34
+    },
+    {
+      "commit": "119221f9881c1f88f548ba80ef5b55315db462fc",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1561038733,
+      "key word": "test",
+      "end position in commit": 43
+    },
+    {
+      "commit": "b16a33568dfab97428cc8c154cadf969f48034cf",
+      "author": "Artem Payvin",
+      "committed date": 1561032156,
+      "key word": "test",
+      "end position in commit": 55
+    },
+    {
+      "commit": "1d4b63c844e2b7297f4da60685189a01086b43c7",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1560952597,
+      "key word": "test",
+      "end position in commit": 35
+    },
+    {
+      "commit": "fe00e183e435de443db573bd14388ac200bc8595",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1560929280,
+      "key word": "test",
+      "end position in commit": 37
+    },
+    {
+      "commit": "05a78ececfe61cd5c5b5136bb2823c8e31293490",
+      "author": "Dmytro Stebaiev",
+      "committed date": 1560868310,
+      "key word": "test",
+      "end position in commit": 36
+    }
+  ]
+}
